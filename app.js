@@ -199,7 +199,31 @@ fr:[
 ]
 };
 
-let lang = localStorage.getItem("dkgl-lang") || "en";
+function detectLanguage() {
+  // 1. Respect a language manually chosen by the visitor.
+  const savedLang = localStorage.getItem("dkgl-lang");
+  if (["en", "de", "es", "pt", "fr"].includes(savedLang)) {
+    return savedLang;
+  }
+
+  // 2. Otherwise detect the browser/device language.
+  const browserLang = (
+    navigator.languages?.[0] ||
+    navigator.language ||
+    navigator.userLanguage ||
+    "en"
+  ).toLowerCase();
+
+  if (browserLang.startsWith("es")) return "es";
+  if (browserLang.startsWith("de")) return "de";
+  if (browserLang.startsWith("fr")) return "fr";
+  if (browserLang.startsWith("pt")) return "pt";
+
+  // 3. Any other language opens in English.
+  return "en";
+}
+
+let lang = detectLanguage();
 let route = location.hash.replace("#","") || "home";
 const ROUTES=["home","daily","alliances","events","heroes","tips"];
 if(!I18N[lang]) lang="en";
@@ -279,7 +303,9 @@ function showRoute(name, updateHash=true){
 
 document.querySelectorAll("[data-route]").forEach(el=>el.addEventListener("click",()=>showRoute(el.dataset.route)));
 document.querySelectorAll(".lang").forEach(el=>el.addEventListener("click",()=>{
- lang=el.dataset.lang;localStorage.setItem("dkgl-lang",lang);applyLanguage();
+  lang=el.dataset.lang;
+  localStorage.setItem("dkgl-lang",lang);
+  applyLanguage();
 }));
 document.getElementById("navToggle").addEventListener("click",()=>{
  const nav=document.getElementById("mainNav"), open=nav.classList.toggle("open");

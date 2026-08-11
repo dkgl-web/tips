@@ -10,7 +10,10 @@ const T = {
     alliancesTitle:"Alliances", alliancesIntro:"Alliance guides will live here without changing the website structure.",
     eventsTitle:"Events", eventsIntro:"Event guides, priorities and reward routines will be grouped here.",
     heroesTitle:"Heroes", heroesIntro:"Squad skill and star-priority guides. Tap an image to open it at full size.",
-    tipsTitle:"Tips", tipsIntro:"Short, practical recommendations will be collected here.",
+    tipsTitle:"Tips", tipsIntro:"Practical tricks and shortcuts that save resources and make moving around the game easier.",
+    tipTeleportTitle:"Free inter-server teleport during seasons",
+    tipTeleportText:"During the different seasons, you can teleport to other servers without spending teleport items by using the Grouping menu. You can return to your home server at any time for free as well. This inter-server teleport system has a mandatory 5-minute cooldown between jumps.",
+    tt1:"1 · Open the season access", tt2:"2 · Enter Golden Kingdom", tt3:"3 · Open Grouping", tt4:"4 · Choose a participating server",
     comingSoon:"More guides coming soon",
     alliancesPlaceholder:"This section is already prepared for alliance schedules, coordination, donations, gifts and war organization.",
     eventsPlaceholder:"The section is ready for event cards and screenshots when you add them later.",
@@ -31,7 +34,10 @@ const T = {
     alliancesTitle:"Allianzen", alliancesIntro:"Allianz-Guides werden hier gesammelt, ohne die Website-Struktur später ändern zu müssen.",
     eventsTitle:"Events", eventsIntro:"Event-Guides, Prioritäten und Belohnungsroutinen werden hier gebündelt.",
     heroesTitle:"Helden", heroesIntro:"Guides zu Skill- und Sterne-Prioritäten der Trupps. Tippe auf ein Bild, um es groß zu öffnen.",
-    tipsTitle:"Tipps", tipsIntro:"Kurze und praktische Empfehlungen werden hier gesammelt.",
+    tipsTitle:"Tipps", tipsIntro:"Praktische Tricks und Abkürzungen, die Ressourcen sparen und die Bewegung im Spiel erleichtern.",
+    tipTeleportTitle:"Kostenloser Serverwechsel während der Saisons",
+    tipTeleportText:"Während der verschiedenen Saisons kannst du über das Menü „Gruppierung“ auf andere Server teleportieren, ohne Teleporter zu verbrauchen. Du kannst jederzeit ebenfalls kostenlos auf deinen Heimatserver zurückkehren. Zwischen zwei serverübergreifenden Sprüngen gilt eine verpflichtende Abklingzeit von 5 Minuten.",
+    tt1:"1 · Saisonzugang öffnen", tt2:"2 · Goldenes Königreich öffnen", tt3:"3 · Gruppierung öffnen", tt4:"4 · Teilnehmenden Server wählen",
     comingSoon:"Weitere Guides folgen",
     alliancesPlaceholder:"Dieser Bereich ist bereits für Allianz-Zeitpläne, Koordination, Spenden, Geschenke und Kriegsorganisation vorbereitet.",
     eventsPlaceholder:"Der Bereich ist für Event-Karten und Screenshots vorbereitet, die später ergänzt werden können.",
@@ -52,7 +58,10 @@ const T = {
     alliancesTitle:"Alianzas", alliancesIntro:"Aquí irán las guías de alianza sin tener que cambiar la estructura de la web.",
     eventsTitle:"Eventos", eventsIntro:"Aquí se agruparán guías de eventos, prioridades y rutinas de recompensas.",
     heroesTitle:"Héroes", heroesIntro:"Guías de prioridades de habilidades y estrellas por escuadrón. Pulsa una imagen para verla a tamaño completo.",
-    tipsTitle:"Consejos", tipsIntro:"Aquí se reunirán recomendaciones cortas y prácticas.",
+    tipsTitle:"Consejos", tipsIntro:"Trucos prácticos y atajos que ahorran recursos y facilitan moverte por el juego.",
+    tipTeleportTitle:"Teletransporte gratuito entre servidores en temporada",
+    tipTeleportText:"Durante las diferentes temporadas, puedes teletransportarte a otros servidores sin gastar teletransportadores usando el menú de Agrupamientos. También puedes volver en cualquier momento a tu servidor de origen de forma gratuita. El sistema tiene un tiempo de reutilización obligatorio de 5 minutos entre cada salto interservidor.",
+    tt1:"1 · Abre el acceso de temporada", tt2:"2 · Entra en Reino Dorado", tt3:"3 · Abre Agrupamiento", tt4:"4 · Elige un servidor participante",
     comingSoon:"Próximamente más guías",
     alliancesPlaceholder:"Este apartado ya está preparado para horarios de alianza, coordinación, donaciones, regalos y organización de guerra.",
     eventsPlaceholder:"El apartado está preparado para añadir tarjetas de eventos y capturas cuando quieras.",
@@ -73,7 +82,10 @@ const T = {
     alliancesTitle:"Alianças", alliancesIntro:"As guias de aliança ficarão aqui sem ser necessário alterar a estrutura do site.",
     eventsTitle:"Eventos", eventsIntro:"Guias de eventos, prioridades e rotinas de recompensas serão agrupadas aqui.",
     heroesTitle:"Heróis", heroesIntro:"Guias de prioridades de habilidades e estrelas por esquadrão. Toca numa imagem para a abrir em tamanho completo.",
-    tipsTitle:"Dicas", tipsIntro:"Recomendações curtas e práticas serão reunidas aqui.",
+    tipsTitle:"Dicas", tipsIntro:"Truques práticos e atalhos que poupam recursos e facilitam a deslocação no jogo.",
+    tipTeleportTitle:"Teletransporte gratuito entre servidores durante a temporada",
+    tipTeleportText:"Durante as diferentes temporadas, podes teletransportar-te para outros servidores sem gastar teleportadores através do menu de Agrupamento. Também podes regressar ao teu servidor de origem a qualquer momento e gratuitamente. O sistema tem um tempo de reutilização obrigatório de 5 minutos entre cada salto entre servidores.",
+    tt1:"1 · Abre o acesso da temporada", tt2:"2 · Entra no Reino Dourado", tt3:"3 · Abre Agrupamento", tt4:"4 · Escolhe um servidor participante",
     comingSoon:"Mais guias em breve",
     alliancesPlaceholder:"Esta secção já está preparada para horários da aliança, coordenação, doações, presentes e organização de guerra.",
     eventsPlaceholder:"A secção está pronta para cartões de eventos e capturas de ecrã que venham a ser adicionados.",
@@ -94,7 +106,10 @@ const T = {
     alliancesTitle:"Alliances", alliancesIntro:"Les guides d’alliance seront regroupés ici sans devoir modifier la structure du site.",
     eventsTitle:"Événements", eventsIntro:"Les guides d’événements, priorités et routines de récompenses seront regroupés ici.",
     heroesTitle:"Héros", heroesIntro:"Guides de priorité des compétences et des étoiles par escouade. Clique sur une image pour l’ouvrir en grand.",
-    tipsTitle:"Astuces", tipsIntro:"Les recommandations courtes et pratiques seront regroupées ici.",
+    tipsTitle:"Astuces", tipsIntro:"Des astuces pratiques et des raccourcis pour économiser des ressources et se déplacer plus facilement dans le jeu.",
+    tipTeleportTitle:"Téléportation gratuite entre serveurs pendant les saisons",
+    tipTeleportText:"Pendant les différentes saisons, tu peux te téléporter vers d’autres serveurs sans utiliser de téléporteurs grâce au menu de Groupement. Tu peux également revenir gratuitement sur ton serveur d’origine à tout moment. Un délai de récupération obligatoire de 5 minutes s’applique entre chaque saut interserveur.",
+    tt1:"1 · Ouvre l’accès à la saison", tt2:"2 · Entre dans le Royaume doré", tt3:"3 · Ouvre Groupement", tt4:"4 · Choisis un serveur participant",
     comingSoon:"D’autres guides arrivent bientôt",
     alliancesPlaceholder:"Cette section est déjà prête pour les horaires d’alliance, la coordination, les dons, les cadeaux et l’organisation de guerre.",
     eventsPlaceholder:"La section est prête pour ajouter plus tard des cartes d’événements et des captures d’écran.",
@@ -155,6 +170,34 @@ const DAILY = {
   ]
 };
 
+
+const TIPS = {
+  images:["tt1.jpg","tt2.jpg","tt3.jpg","tt4.jpg"]
+};
+
+const tipsCards = document.getElementById("tipsCards");
+
+function renderTips(){
+  if(!tipsCards) return;
+  tipsCards.innerHTML = `
+    <article class="tip-guide-card">
+      <span class="kicker">DKGL · SEASON TIP</span>
+      <h2>${T[lang].tipTeleportTitle}</h2>
+      <p class="section-text">${T[lang].tipTeleportText}</p>
+      <div class="shots four">
+        ${TIPS.images.map((file,i)=>`
+          <figure>
+            <div class="shot-label">${T[lang]["tt"+(i+1)]}</div>
+            <a href="assets/${file}" target="_blank" rel="noopener">
+              <img src="assets/${file}" alt="${T[lang]["tt"+(i+1)]}" loading="lazy">
+            </a>
+          </figure>
+        `).join("")}
+      </div>
+    </article>
+  `;
+}
+
 const dailyCards = document.getElementById("dailyCards");
 let lang = localStorage.getItem("dkgl-lang") || "en";
 let section = location.hash.replace("#","") || localStorage.getItem("dkgl-section") || "daily";
@@ -194,6 +237,7 @@ function applyLang(){
   });
   document.querySelectorAll(".lang").forEach(b=>b.classList.toggle("active",b.dataset.lang===lang));
   renderDaily();
+  renderTips();
 }
 
 function showSection(name, updateHash=true){

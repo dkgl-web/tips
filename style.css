@@ -172,3 +172,26 @@ img{display:block;max-width:100%}
 @media(prefers-reduced-motion:reduce){
   *{scroll-behavior:auto!important;transition:none!important}
 }
+
+
+/* TIPS: inter-server teleport guide */
+.tip-guide-card{
+  background:white;
+  border:1px solid var(--line);
+  border-top:5px solid var(--gold);
+  border-radius:18px;
+  padding:22px;
+  box-shadow:var(--shadow);
+}
+.tip-guide-card h2{
+  margin:.2rem 0 .6rem;
+  font-size:clamp(1.35rem,2.6vw,2.05rem);
+}
+.tip-guide-card .section-text{margin-bottom:20px}
+.shots.four{grid-template-columns:repeat(2,minmax(0,1fr))}
+.shots.four figure a{min-height:320px}
+.shots.four img{max-height:620px}
+@media(max-width:760px){
+  .shots.four{grid-template-columns:1fr}
+  .shots.four figure a{min-height:230px}
+}

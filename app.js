@@ -1,5 +1,8 @@
 const I18N = {
 en:{
+ droneBadge:"DRONE GUIDE",
+ droneTitle:"Which drone chips should you prioritize?",
+ droneText:"For the Tactical Drone, prioritize the chips in this order: 1 → 2 → 3 → 4. Focus your resources on the highest-priority chip first before investing heavily in the next ones.",
  navHome:"Home",navDaily:"Daily Routine",navAlliances:"Alliances",navEvents:"Events",navHeroes:"Heroes",navTips:"Tips",
  homeMotto:"Together we build, together we win.",homeValues:"Performance · Good play · Teamwork",
  homeIntro:"We grow by playing well, helping each other and facing every challenge as a team.",
@@ -27,6 +30,9 @@ en:{
  tt:["1 · Open the season access","2 · Enter Golden Kingdom","3 · Open Grouping","4 · Choose a participating server"]
 },
 de:{
+ droneBadge:"DROHNEN-GUIDE",
+ droneTitle:"Welche Drohnenchips solltest du priorisieren?",
+ droneText:"Bei der Taktischen Drohne priorisiere die Chips in dieser Reihenfolge: 1 → 2 → 3 → 4. Investiere deine Ressourcen zuerst in den Chip mit der höchsten Priorität, bevor du die nächsten stark ausbaust.",
  navHome:"Start",navDaily:"Tägliche Routine",navAlliances:"Allianzen",navEvents:"Events",navHeroes:"Helden",navTips:"Tipps",
  homeMotto:"Gemeinsam bauen wir auf, gemeinsam gewinnen wir.",homeValues:"Leistung · Gutes Spiel · Teamgeist",
  homeIntro:"Wir wachsen, indem wir gut spielen, einander helfen und jede Herausforderung als Team angehen.",
@@ -54,6 +60,9 @@ de:{
  tt:["1 · Saisonzugang öffnen","2 · Goldenes Königreich öffnen","3 · Gruppierung öffnen","4 · Teilnehmenden Server wählen"]
 },
 es:{
+ droneBadge:"GUÍA DE DRON",
+ droneTitle:"¿Qué chips debes priorizar en el dron?",
+ droneText:"En el Dron Táctico, prioriza los chips en este orden: 1 → 2 → 3 → 4. Centra primero tus recursos en el chip de mayor prioridad antes de invertir fuertemente en los siguientes.",
  navHome:"Inicio",navDaily:"Rutina diaria",navAlliances:"Alianzas",navEvents:"Eventos",navHeroes:"Héroes",navTips:"Consejos",
  homeMotto:"Juntos construimos, juntos ganamos.",homeValues:"Rendimiento · Buen juego · Compañerismo",
  homeIntro:"Crecemos jugando bien, ayudándonos y afrontando juntos cada reto como equipo.",
@@ -81,6 +90,9 @@ es:{
  tt:["1 · Abre el acceso de temporada","2 · Entra en Reino Dorado","3 · Abre Agrupamiento","4 · Elige un servidor participante"]
 },
 pt:{
+ droneBadge:"GUIA DO DRONE",
+ droneTitle:"Que chips deves priorizar no drone?",
+ droneText:"No Drone Tático, prioriza os chips por esta ordem: 1 → 2 → 3 → 4. Concentra primeiro os recursos no chip de maior prioridade antes de investir fortemente nos seguintes.",
  navHome:"Início",navDaily:"Rotina diária",navAlliances:"Alianças",navEvents:"Eventos",navHeroes:"Heróis",navTips:"Dicas",
  homeMotto:"Juntos construímos, juntos vencemos.",homeValues:"Rendimento · Bom jogo · Companheirismo",
  homeIntro:"Crescemos jogando bem, ajudando-nos e enfrentando cada desafio como equipa.",
@@ -108,6 +120,9 @@ pt:{
  tt:["1 · Abre o acesso da temporada","2 · Entra no Reino Dourado","3 · Abre Agrupamento","4 · Escolhe um servidor participante"]
 },
 fr:{
+ droneBadge:"GUIDE DU DRONE",
+ droneTitle:"Quelles puces faut-il prioriser sur le drone ?",
+ droneText:"Pour le Drone Tactique, priorise les puces dans cet ordre : 1 → 2 → 3 → 4. Concentre d’abord tes ressources sur la puce la plus prioritaire avant d’investir fortement dans les suivantes.",
  navHome:"Accueil",navDaily:"Routine quotidienne",navAlliances:"Alliances",navEvents:"Événements",navHeroes:"Héros",navTips:"Astuces",
  homeMotto:"Ensemble nous construisons, ensemble nous gagnons.",homeValues:"Performance · Bon jeu · Esprit d’équipe",
  homeIntro:"Nous progressons en jouant bien, en nous aidant et en relevant chaque défi en équipe.",
@@ -212,11 +227,34 @@ function renderDaily(){
 function renderTips(){
  const labels=I18N[lang].tt;
  const files=["tt1.jpg","tt2.jpg","tt3.jpg","tt4.jpg"];
- document.getElementById("teleportSteps").innerHTML=files.map((file,i)=>`
-   <div class="step-card">
-    <b>${labels[i]}</b>
-    <a href="assets/${file}" target="_blank" rel="noopener"><img src="assets/${file}" alt="${labels[i]}" loading="lazy"></a>
-   </div>`).join("");
+ const target=document.getElementById("teleportSteps");
+ if(target){
+   target.innerHTML=files.map((file,i)=>`
+     <div class="step-card">
+      <b>${labels[i]}</b>
+      <a href="assets/${file}" target="_blank" rel="noopener"><img src="assets/${file}" alt="${labels[i]}" loading="lazy"></a>
+     </div>`).join("");
+ }
+
+ let drone=document.getElementById("droneGuide");
+ if(!drone){
+   const tipsPage=document.querySelector('[data-page="tips"]');
+   drone=document.createElement("article");
+   drone.id="droneGuide";
+   drone.className="feature-guide drone-guide";
+   tipsPage.appendChild(drone);
+ }
+ drone.innerHTML=`
+   <div class="feature-copy">
+     <span class="feature-badge">${I18N[lang].droneBadge}</span>
+     <h3>${I18N[lang].droneTitle}</h3>
+     <p>${I18N[lang].droneText}</p>
+   </div>
+   <div class="drone-visual">
+     <a href="assets/dron.webp" target="_blank" rel="noopener">
+       <img src="assets/dron.webp" alt="${I18N[lang].droneTitle}" loading="lazy">
+     </a>
+   </div>`;
 }
 
 function applyLanguage(){

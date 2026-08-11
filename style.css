@@ -177,3 +177,24 @@ img{max-width:100%;display:block}
   .lang img{width:25px;height:16px}
   .lang span{display:none}
 }
+
+
+/* TIPS · Drone chip priority */
+.drone-guide{margin-top:22px}
+.drone-visual{padding:18px;background:#08131d;border-top:1px solid rgba(255,255,255,.06)}
+.drone-visual a{
+  display:grid;
+  place-items:center;
+  min-height:420px;
+  border-radius:12px;
+  overflow:hidden;
+  background:#050b11;
+}
+.drone-visual img{
+  width:auto;
+  max-width:100%;
+  max-height:900px;
+}
+@media(max-width:720px){
+  .drone-visual a{min-height:260px}
+}

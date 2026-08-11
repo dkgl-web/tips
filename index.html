@@ -2,159 +2,173 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#173c56">
-  <title>DKGL Tips · Last War</title>
-  <meta name="description" content="DKGL multilingual Last War guides: Daily Routine, Alliances, Events, Heroes and Tips.">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#07111d">
+  <title>DKGL · Last War Alliance</title>
+  <meta name="description" content="DKGL Last War multilingual guides, routines, heroes and alliance tips.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="site-header">
-  <div class="wrap header-top">
-    <a class="brand" href="#daily" aria-label="DKGL Tips">
-      <span class="brand-mark">DKGL</span>
-      <span class="brand-copy">
-        <strong>LAST WAR · TIPS</strong>
-        <small data-i18n="brandSub">Guides for smarter growth</small>
-      </span>
-    </a>
+<header class="topbar">
+  <div class="shell topbar-inner">
+    <button class="brand" data-route="home" aria-label="DKGL Home">
+      <span class="brand-crown">♛</span>
+      <span class="brand-word">DKGL</span>
+      <small>LAST WAR ALLIANCE</small>
+    </button>
 
-    <button class="mobile-menu" id="mobileMenu" aria-expanded="false" aria-controls="mainNav">☰</button>
-  </div>
+    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="mainNav">☰</button>
 
-  <div class="wrap header-controls">
-    <nav class="main-nav" id="mainNav" aria-label="Main sections">
-      <button class="nav-btn active" data-section="daily" data-i18n="navDaily">Daily Routine</button>
-      <button class="nav-btn" data-section="alliances" data-i18n="navAlliances">Alliances</button>
-      <button class="nav-btn" data-section="events" data-i18n="navEvents">Events</button>
-      <button class="nav-btn" data-section="heroes" data-i18n="navHeroes">Heroes</button>
-      <button class="nav-btn" data-section="tips" data-i18n="navTips">Tips</button>
+    <nav class="main-nav" id="mainNav" aria-label="Main navigation">
+      <button class="nav-link active" data-route="home"><span>⌂</span><b data-i18n="navHome">Home</b></button>
+      <button class="nav-link" data-route="daily"><span>✓</span><b data-i18n="navDaily">Daily Routine</b></button>
+      <button class="nav-link" data-route="alliances"><span>♜</span><b data-i18n="navAlliances">Alliances</b></button>
+      <button class="nav-link" data-route="events"><span>★</span><b data-i18n="navEvents">Events</b></button>
+      <button class="nav-link" data-route="heroes"><span>♞</span><b data-i18n="navHeroes">Heroes</b></button>
+      <button class="nav-link" data-route="tips"><span>✦</span><b data-i18n="navTips">Tips</b></button>
     </nav>
 
-    <div class="language-bar" aria-label="Language">
-      <button class="lang active" data-lang="en">EN</button>
-      <button class="lang" data-lang="de">DE</button>
-      <button class="lang" data-lang="es">ES</button>
-      <button class="lang" data-lang="pt">PT</button>
-      <button class="lang" data-lang="fr">FR</button>
+    <div class="lang-switcher" aria-label="Language selector">
+      <button class="lang active" data-lang="en" title="English"><img src="assets/flag-en.svg" alt="English"><span>EN</span></button>
+      <button class="lang" data-lang="de" title="Deutsch"><img src="assets/flag-de.svg" alt="Deutsch"><span>DE</span></button>
+      <button class="lang" data-lang="es" title="Español"><img src="assets/flag-es.svg" alt="Español"><span>ES</span></button>
+      <button class="lang" data-lang="pt" title="Português"><img src="assets/flag-pt.svg" alt="Português"><span>PT</span></button>
+      <button class="lang" data-lang="fr" title="Français"><img src="assets/flag-fr.svg" alt="Français"><span>FR</span></button>
     </div>
   </div>
 </header>
 
-<main class="wrap main">
-  <section class="page active" id="page-daily" data-page="daily">
-    <div class="page-hero">
-      <div>
-        <span class="kicker">DKGL · DAILY</span>
-        <h1 data-i18n="dailyTitle">Daily Growth Routine</h1>
-        <p data-i18n="dailyIntro">Daily rewards, free gifts and smarter growth. Use this routine so you don't leave easy resources behind.</p>
-      </div>
-      <a class="outline-btn" href="assets/original-poster.png" target="_blank" rel="noopener" data-i18n="openPoster">Open original poster</a>
-    </div>
-    <div id="dailyCards"></div>
-    <div class="tip-strip">
-      <strong>DKGL TIP</strong>
-      <span data-i18n="dailyFooter">Plan your actions · Synchronize Arms Race with Alliance Duel · Claim everything free · Clear every red dot</span>
-    </div>
-  </section>
-
-  <section class="page" id="page-alliances" data-page="alliances">
-    <div class="page-hero compact">
-      <div>
-        <span class="kicker">DKGL · ALLIANCE</span>
-        <h1 data-i18n="alliancesTitle">Alliances</h1>
-        <p data-i18n="alliancesIntro">Alliance guides will live here without changing the website structure.</p>
-      </div>
-    </div>
-    <div class="placeholder-card">
-      <div class="placeholder-icon">🛡️</div>
-      <div>
-        <h2 data-i18n="comingSoon">More guides coming soon</h2>
-        <p data-i18n="alliancesPlaceholder">This section is already prepared for alliance schedules, coordination, donations, gifts and war organization.</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="page" id="page-events" data-page="events">
-    <div class="page-hero compact">
-      <div>
-        <span class="kicker">DKGL · EVENTS</span>
-        <h1 data-i18n="eventsTitle">Events</h1>
-        <p data-i18n="eventsIntro">Event guides, priorities and reward routines will be grouped here.</p>
-      </div>
-    </div>
-    <div class="placeholder-card">
-      <div class="placeholder-icon">🏆</div>
-      <div>
-        <h2 data-i18n="comingSoon">More guides coming soon</h2>
-        <p data-i18n="eventsPlaceholder">The section is ready for event cards and screenshots when you add them later.</p>
-      </div>
-    </div>
-  </section>
-
-  <section class="page" id="page-heroes" data-page="heroes">
-    <div class="page-hero compact">
-      <div>
-        <span class="kicker">DKGL · HEROES</span>
-        <h1 data-i18n="heroesTitle">Heroes</h1>
-        <p data-i18n="heroesIntro">Squad skill and star-priority guides. Tap an image to open it at full size.</p>
-      </div>
-    </div>
-
-    <div class="hero-guide-grid">
-      <article class="hero-guide">
-        <div class="guide-copy">
-          <span class="guide-type" data-i18n="missileType">Missile Squad</span>
-          <h2 data-i18n="missileTitle">Missile Squad Guide</h2>
-          <p data-i18n="missileText">Skill prioritization and 5-star / level order for the missile squad.</p>
+<main>
+  <!-- HOME -->
+  <section class="page active" data-page="home">
+    <section class="hero">
+      <div class="hero-bg"></div>
+      <div class="hero-shade"></div>
+      <div class="shell hero-inner">
+        <div class="hero-copy">
+          <span class="eyebrow">LAST WAR · DKGL ALLIANCE</span>
+          <div class="hero-crown">♛</div>
+          <h1>DKGL</h1>
+          <h2 data-i18n="homeMotto">Together we build, together we win.</h2>
+          <p class="hero-values" data-i18n="homeValues">Performance · Good play · Teamwork</p>
+          <p class="hero-text" data-i18n="homeIntro">We grow by playing well, helping each other and facing every challenge as a team.</p>
+          <div class="hero-actions">
+            <button class="cta gold" data-route="daily"><span data-i18n="homeDaily">Open Daily Routine</span> →</button>
+            <button class="cta glass" data-route="tips"><span data-i18n="homeTips">Open Tips & Guides</span> →</button>
+          </div>
         </div>
-        <a href="assets/missile-squad-guide.webp" target="_blank" rel="noopener">
-          <img src="assets/missile-squad-guide.webp" alt="Missile Squad Guide" loading="lazy">
-        </a>
-      </article>
+      </div>
 
-      <article class="hero-guide">
-        <div class="guide-copy">
-          <span class="guide-type" data-i18n="airType">Air Squad</span>
-          <h2 data-i18n="airTitle">Air Squad Guide</h2>
-          <p data-i18n="airText">Skill prioritization and 5-star / level order for the air squad.</p>
-        </div>
-        <a href="assets/air-squad-guide.webp" target="_blank" rel="noopener">
-          <img src="assets/air-squad-guide.webp" alt="Air Squad Guide" loading="lazy">
-        </a>
-      </article>
+      <div class="shell home-grid">
+        <button class="home-tile blue" data-route="daily">
+          <span class="tile-icon">✓</span>
+          <span><strong data-i18n="tileDailyTitle">Daily Routine</strong><small data-i18n="tileDailyText">Daily actions to maximize rewards and progress.</small></span>
+          <b>→</b>
+        </button>
+        <button class="home-tile green" data-route="heroes">
+          <span class="tile-icon">♞</span>
+          <span><strong data-i18n="tileHeroesTitle">Heroes</strong><small data-i18n="tileHeroesText">Squad priorities and visual hero guides.</small></span>
+          <b>→</b>
+        </button>
+        <button class="home-tile red" data-route="tips">
+          <span class="tile-icon">✦</span>
+          <span><strong data-i18n="tileTipsTitle">Tips & Guides</strong><small data-i18n="tileTipsText">Useful tricks that save time and resources.</small></span>
+          <b>→</b>
+        </button>
+      </div>
+    </section>
 
-      <article class="hero-guide">
-        <div class="guide-copy">
-          <span class="guide-type" data-i18n="tankType">Tank Squad</span>
-          <h2 data-i18n="tankTitle">Tank Squad Guide</h2>
-          <p data-i18n="tankText">Skill prioritization and 5-star / level order for the tank squad.</p>
-        </div>
-        <a href="assets/tank-squad-guide.webp" target="_blank" rel="noopener">
-          <img src="assets/tank-squad-guide.webp" alt="Tank Squad Guide" loading="lazy">
-        </a>
-      </article>
-    </div>
-
-    <p class="source-note" data-i18n="heroImageNote">The original guide images are kept intact; the website interface around them is available in five languages.</p>
+    <section class="shell manifesto">
+      <div class="manifesto-kicker" data-i18n="manifestoKicker">OUR WAY OF PLAYING</div>
+      <h3 data-i18n="manifestoTitle">A strong alliance grows through performance, good play and teamwork.</h3>
+      <p data-i18n="manifestoText">We want people who participate, help the team and enjoy improving together. DKGL is competition with respect, organization and camaraderie.</p>
+    </section>
   </section>
 
-  <section class="page" id="page-tips" data-page="tips">
-    <div class="page-hero compact">
-      <div>
-        <span class="kicker">DKGL · QUICK TIPS</span>
-        <h1 data-i18n="tipsTitle">Tips</h1>
-        <p data-i18n="tipsIntro">Short, practical recommendations will be collected here.</p>
-      </div>
+  <!-- DAILY -->
+  <section class="page shell content-page" data-page="daily">
+    <div class="section-hero">
+      <span class="section-code">01 // DAILY</span>
+      <h2 data-i18n="dailyTitle">Daily Growth Routine</h2>
+      <p data-i18n="dailyIntro">A practical routine to collect the easiest rewards and keep your account growing.</p>
     </div>
-    <div id="tipsCards"></div>
+    <div id="dailyGrid" class="guide-stack"></div>
+  </section>
+
+  <!-- ALLIANCES -->
+  <section class="page shell content-page" data-page="alliances">
+    <div class="section-hero">
+      <span class="section-code">02 // ALLIANCE</span>
+      <h2 data-i18n="alliancesTitle">Alliances</h2>
+      <p data-i18n="alliancesIntro">Coordination, cooperation and alliance organization.</p>
+    </div>
+    <div class="empty-state">
+      <span>♜</span>
+      <h3 data-i18n="comingSoon">More guides coming soon</h3>
+      <p data-i18n="alliancesPlaceholder">This area is ready for alliance schedules, coordination, donations and war organization.</p>
+    </div>
+  </section>
+
+  <!-- EVENTS -->
+  <section class="page shell content-page" data-page="events">
+    <div class="section-hero">
+      <span class="section-code">03 // EVENTS</span>
+      <h2 data-i18n="eventsTitle">Events</h2>
+      <p data-i18n="eventsIntro">Priorities, calendars and event strategies.</p>
+    </div>
+    <div class="empty-state">
+      <span>★</span>
+      <h3 data-i18n="comingSoon">More guides coming soon</h3>
+      <p data-i18n="eventsPlaceholder">This area is ready for event guides and visual walkthroughs.</p>
+    </div>
+  </section>
+
+  <!-- HEROES -->
+  <section class="page shell content-page" data-page="heroes">
+    <div class="section-hero">
+      <span class="section-code">04 // HEROES</span>
+      <h2 data-i18n="heroesTitle">Heroes</h2>
+      <p data-i18n="heroesIntro">Skill and star priorities for the three main squads.</p>
+    </div>
+    <div class="heroes-grid">
+      <article class="hero-card">
+        <div class="hero-card-head"><span>MISSILE</span><h3 data-i18n="missileTitle">Missile Squad Guide</h3><p data-i18n="missileText">Skill prioritization and 5-star / level order.</p></div>
+        <a href="assets/missile-squad-guide.webp" target="_blank"><img src="assets/missile-squad-guide.webp" alt="Missile Squad Guide"></a>
+      </article>
+      <article class="hero-card">
+        <div class="hero-card-head"><span>AIR</span><h3 data-i18n="airTitle">Air Squad Guide</h3><p data-i18n="airText">Skill prioritization and 5-star / level order.</p></div>
+        <a href="assets/air-squad-guide.webp" target="_blank"><img src="assets/air-squad-guide.webp" alt="Air Squad Guide"></a>
+      </article>
+      <article class="hero-card">
+        <div class="hero-card-head"><span>TANK</span><h3 data-i18n="tankTitle">Tank Squad Guide</h3><p data-i18n="tankText">Skill prioritization and 5-star / level order.</p></div>
+        <a href="assets/tank-squad-guide.webp" target="_blank"><img src="assets/tank-squad-guide.webp" alt="Tank Squad Guide"></a>
+      </article>
+    </div>
+  </section>
+
+  <!-- TIPS -->
+  <section class="page shell content-page" data-page="tips">
+    <div class="section-hero">
+      <span class="section-code">05 // TIPS</span>
+      <h2 data-i18n="tipsTitle">Tips & Guides</h2>
+      <p data-i18n="tipsIntro">Useful shortcuts and practical knowledge for Last War.</p>
+    </div>
+    <article class="feature-guide">
+      <div class="feature-copy">
+        <span class="feature-badge" data-i18n="seasonTip">SEASON TIP</span>
+        <h3 data-i18n="tipTeleportTitle">Free inter-server teleport during seasons</h3>
+        <p data-i18n="tipTeleportText">During seasons you can use the Grouping menu to move to other servers without spending teleport items, and return to your home server for free. There is a mandatory 5-minute cooldown between inter-server jumps.</p>
+      </div>
+      <div class="steps-grid" id="teleportSteps"></div>
+    </article>
   </section>
 </main>
 
-<footer class="site-footer">
-  <div class="wrap footer-inner">
-    <strong>DKGL · Last War Survival</strong>
-    <span data-i18n="footerText">Multilingual community guides · EN · DE · ES · PT · FR</span>
+<footer class="footer">
+  <div class="shell footer-inner">
+    <div><span class="footer-crown">♛</span><b>DKGL</b><small>LAST WAR ALLIANCE</small></div>
+    <p data-i18n="footerMotto">Performance · Good play · Teamwork</p>
+    <span>TOGETHER WE WIN</span>
   </div>
 </footer>
 

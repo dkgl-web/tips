@@ -3,7 +3,7 @@ en:{
  droneBadge:"DRONE GUIDE",
  droneTitle:"Which drone chips should you prioritize?",
  droneText:"For the Tactical Drone, prioritize the chips in this order: 1 → 2 → 3 → 4. Focus your resources on the highest-priority chip first before investing heavily in the next ones.",
- navHome:"Home",navDaily:"Daily Routine",navAlliances:"Alliances",navEvents:"Events",navHeroes:"Heroes",navTips:"Tips",
+ navHome:"Home",navDaily:"Daily Routine",navAlliances:"Alliances",navEvents:"Events",navHeroes:"Heroes",navTips:"Tips & Guides",
  homeMotto:"Together we build, together we win.",homeValues:"Performance · Good play · Teamwork",
  homeIntro:"We grow by playing well, helping each other and facing every challenge as a team.",
  homeDaily:"Open Daily Routine",homeTips:"Open Tips & Guides",
@@ -19,7 +19,7 @@ en:{
  alliancesTitle:"Alliances",alliancesIntro:"Coordination, cooperation and alliance organization.",
  eventsTitle:"Events",eventsIntro:"Priorities, calendars and event strategies.",
  heroesTitle:"Heroes",heroesIntro:"Skill and star priorities for the three main squads.",
- tipsTitle:"Tips & Guides",tipsIntro:"Useful shortcuts and practical knowledge for Last War.",
+ tipsTitle:"Tips & Guides",tipsIntro:"Quick tricks and complete visual guides, organized so you can find what you need fast.",
  comingSoon:"More guides coming soon",alliancesPlaceholder:"This area is ready for alliance schedules, coordination, donations and war organization.",eventsPlaceholder:"This area is ready for event guides and visual walkthroughs.",
  missileTitle:"Missile Squad Guide",missileText:"Skill prioritization and 5-star / level order.",
  airTitle:"Air Squad Guide",airText:"Skill prioritization and 5-star / level order.",
@@ -33,7 +33,7 @@ de:{
  droneBadge:"DROHNEN-GUIDE",
  droneTitle:"Welche Drohnenchips solltest du priorisieren?",
  droneText:"Bei der Taktischen Drohne priorisiere die Chips in dieser Reihenfolge: 1 → 2 → 3 → 4. Investiere deine Ressourcen zuerst in den Chip mit der höchsten Priorität, bevor du die nächsten stark ausbaust.",
- navHome:"Start",navDaily:"Tägliche Routine",navAlliances:"Allianzen",navEvents:"Events",navHeroes:"Helden",navTips:"Tipps",
+ navHome:"Start",navDaily:"Tägliche Routine",navAlliances:"Allianzen",navEvents:"Events",navHeroes:"Helden",navTips:"Tipps & Guides",
  homeMotto:"Gemeinsam bauen wir auf, gemeinsam gewinnen wir.",homeValues:"Leistung · Gutes Spiel · Teamgeist",
  homeIntro:"Wir wachsen, indem wir gut spielen, einander helfen und jede Herausforderung als Team angehen.",
  homeDaily:"Tägliche Routine öffnen",homeTips:"Tipps & Guides öffnen",
@@ -49,7 +49,7 @@ de:{
  alliancesTitle:"Allianzen",alliancesIntro:"Koordination, Zusammenarbeit und Allianzorganisation.",
  eventsTitle:"Events",eventsIntro:"Prioritäten, Kalender und Event-Strategien.",
  heroesTitle:"Helden",heroesIntro:"Skill- und Sterne-Prioritäten für die drei Haupttrupps.",
- tipsTitle:"Tipps & Guides",tipsIntro:"Nützliche Abkürzungen und praktisches Wissen für Last War.",
+ tipsTitle:"Tipps & Guides",tipsIntro:"Schnelle Tipps und vollständige visuelle Guides, übersichtlich geordnet, damit du sofort findest, was du brauchst.",
  comingSoon:"Weitere Guides folgen",alliancesPlaceholder:"Dieser Bereich ist für Allianz-Zeitpläne, Koordination, Spenden und Kriegsorganisation vorbereitet.",eventsPlaceholder:"Dieser Bereich ist für Event-Guides und visuelle Anleitungen vorbereitet.",
  missileTitle:"Guide für den Raketen-Trupp",missileText:"Skill-Priorisierung sowie 5-Sterne- und Level-Reihenfolge.",
  airTitle:"Guide für den Luft-Trupp",airText:"Skill-Priorisierung sowie 5-Sterne- und Level-Reihenfolge.",
@@ -63,7 +63,7 @@ es:{
  droneBadge:"GUÍA DE DRON",
  droneTitle:"¿Qué chips debes priorizar en el dron?",
  droneText:"En el Dron Táctico, prioriza los chips en este orden: 1 → 2 → 3 → 4. Centra primero tus recursos en el chip de mayor prioridad antes de invertir fuertemente en los siguientes.",
- navHome:"Inicio",navDaily:"Rutina diaria",navAlliances:"Alianzas",navEvents:"Eventos",navHeroes:"Héroes",navTips:"Consejos",
+ navHome:"Inicio",navDaily:"Rutina diaria",navAlliances:"Alianzas",navEvents:"Eventos",navHeroes:"Héroes",navTips:"Consejos y guías",
  homeMotto:"Juntos construimos, juntos ganamos.",homeValues:"Rendimiento · Buen juego · Compañerismo",
  homeIntro:"Crecemos jugando bien, ayudándonos y afrontando juntos cada reto como equipo.",
  homeDaily:"Abrir rutina diaria",homeTips:"Abrir consejos y guías",
@@ -79,7 +79,7 @@ es:{
  alliancesTitle:"Alianzas",alliancesIntro:"Coordinación, cooperación y organización de alianza.",
  eventsTitle:"Eventos",eventsIntro:"Prioridades, calendarios y estrategias de eventos.",
  heroesTitle:"Héroes",heroesIntro:"Prioridades de habilidades y estrellas para los tres escuadrones principales.",
- tipsTitle:"Consejos y guías",tipsIntro:"Atajos útiles y conocimientos prácticos para Last War.",
+ tipsTitle:"Consejos y guías",tipsIntro:"Consejos rápidos y guías visuales completas, ordenados para encontrar enseguida lo que necesitas.",
  comingSoon:"Próximamente más guías",alliancesPlaceholder:"Este apartado está preparado para horarios de alianza, coordinación, donaciones y organización de guerra.",eventsPlaceholder:"Este apartado está preparado para guías de eventos y tutoriales visuales.",
  missileTitle:"Guía del escuadrón de misiles",missileText:"Prioridad de habilidades y orden de 5 estrellas / nivel.",
  airTitle:"Guía del escuadrón aéreo",airText:"Prioridad de habilidades y orden de 5 estrellas / nivel.",
@@ -93,7 +93,7 @@ pt:{
  droneBadge:"GUIA DO DRONE",
  droneTitle:"Que chips deves priorizar no drone?",
  droneText:"No Drone Tático, prioriza os chips por esta ordem: 1 → 2 → 3 → 4. Concentra primeiro os recursos no chip de maior prioridade antes de investir fortemente nos seguintes.",
- navHome:"Início",navDaily:"Rotina diária",navAlliances:"Alianças",navEvents:"Eventos",navHeroes:"Heróis",navTips:"Dicas",
+ navHome:"Início",navDaily:"Rotina diária",navAlliances:"Alianças",navEvents:"Eventos",navHeroes:"Heróis",navTips:"Dicas e guias",
  homeMotto:"Juntos construímos, juntos vencemos.",homeValues:"Rendimento · Bom jogo · Companheirismo",
  homeIntro:"Crescemos jogando bem, ajudando-nos e enfrentando cada desafio como equipa.",
  homeDaily:"Abrir rotina diária",homeTips:"Abrir dicas e guias",
@@ -109,7 +109,7 @@ pt:{
  alliancesTitle:"Alianças",alliancesIntro:"Coordenação, cooperação e organização da aliança.",
  eventsTitle:"Eventos",eventsIntro:"Prioridades, calendários e estratégias de eventos.",
  heroesTitle:"Heróis",heroesIntro:"Prioridades de habilidades e estrelas para os três esquadrões principais.",
- tipsTitle:"Dicas e guias",tipsIntro:"Atalhos úteis e conhecimento prático para Last War.",
+ tipsTitle:"Dicas e guias",tipsIntro:"Dicas rápidas e guias visuais completos, organizados para encontrares depressa o que precisas.",
  comingSoon:"Mais guias em breve",alliancesPlaceholder:"Esta área está preparada para horários, coordenação, doações e organização de guerra da aliança.",eventsPlaceholder:"Esta área está preparada para guias de eventos e tutoriais visuais.",
  missileTitle:"Guia do esquadrão de mísseis",missileText:"Prioridade de habilidades e ordem de 5 estrelas / nível.",
  airTitle:"Guia do esquadrão aéreo",airText:"Prioridade de habilidades e ordem de 5 estrelas / nível.",
@@ -123,7 +123,7 @@ fr:{
  droneBadge:"GUIDE DU DRONE",
  droneTitle:"Quelles puces faut-il prioriser sur le drone ?",
  droneText:"Pour le Drone Tactique, priorise les puces dans cet ordre : 1 → 2 → 3 → 4. Concentre d’abord tes ressources sur la puce la plus prioritaire avant d’investir fortement dans les suivantes.",
- navHome:"Accueil",navDaily:"Routine quotidienne",navAlliances:"Alliances",navEvents:"Événements",navHeroes:"Héros",navTips:"Astuces",
+ navHome:"Accueil",navDaily:"Routine quotidienne",navAlliances:"Alliances",navEvents:"Événements",navHeroes:"Héros",navTips:"Astuces et guides",
  homeMotto:"Ensemble nous construisons, ensemble nous gagnons.",homeValues:"Performance · Bon jeu · Esprit d’équipe",
  homeIntro:"Nous progressons en jouant bien, en nous aidant et en relevant chaque défi en équipe.",
  homeDaily:"Ouvrir la routine quotidienne",homeTips:"Ouvrir les astuces et guides",
@@ -139,7 +139,7 @@ fr:{
  alliancesTitle:"Alliances",alliancesIntro:"Coordination, coopération et organisation d’alliance.",
  eventsTitle:"Événements",eventsIntro:"Priorités, calendriers et stratégies d’événements.",
  heroesTitle:"Héros",heroesIntro:"Priorités de compétences et d’étoiles pour les trois escouades principales.",
- tipsTitle:"Astuces et guides",tipsIntro:"Raccourcis utiles et connaissances pratiques pour Last War.",
+ tipsTitle:"Astuces et guides",tipsIntro:"Des astuces rapides et des guides visuels complets, organisés pour trouver immédiatement ce dont tu as besoin.",
  comingSoon:"D’autres guides arrivent bientôt",alliancesPlaceholder:"Cette zone est prête pour les horaires, la coordination, les dons et l’organisation de guerre.",eventsPlaceholder:"Cette zone est prête pour les guides d’événements et les tutoriels visuels.",
  missileTitle:"Guide de l’escouade de missiles",missileText:"Priorité des compétences et ordre 5 étoiles / niveaux.",
  airTitle:"Guide de l’escouade aérienne",airText:"Priorité des compétences et ordre 5 étoiles / niveaux.",
@@ -150,6 +150,236 @@ fr:{
  tt:["1 · Ouvre l’accès à la saison","2 · Entre dans le Royaume doré","3 · Ouvre Groupement","4 · Choisis un serveur participant"]
 }
 };
+
+
+const TIPS_CONTENT = {
+ en:{
+  choose:"CHOOSE A CATEGORY", tipsCat:"TIPS", tipsCatText:"Short, high-impact tricks for everyday play.", guidesCat:"GUIDES", guidesCatText:"Complete visual walkthroughs for alliance events and mechanics.", back:"← Back", backCategories:"← Categories", open:"OPEN",
+  tipsSectionTitle:"Quick Tips", tipsSectionText:"Small changes that save resources and improve your account.", guidesSectionTitle:"Visual Guides", guidesSectionText:"Step-by-step material for events that work better with coordination.",
+  droneTitle:"Drone chip priority", droneSummary:"Which Tactical Drone chips should get your resources first?", droneText:"For the Tactical Drone, prioritize the chips in this order: 1 → 2 → 3 → 4. Focus your resources on the highest-priority chip first before investing heavily in the next ones.", droneBadge:"DRONE TIP",
+  teleportTitle:"Free inter-server teleport", teleportSummary:"Move between participating servers during seasons without spending teleport items.", teleportText:"During seasons you can use the Grouping menu to move to other servers without spending teleport items, and return to your home server for free. There is a mandatory 5-minute cooldown between inter-server jumps.", teleportBadge:"SEASON TIP",
+  troopsTitle:"Lose fewer troops when attacked", troopsSummary:"Your training grounds can lose soldiers even with no troops on the wall.", troopsText:"Leaving the wall empty does not prevent troop losses if your base is breached. To minimize casualties from the training grounds, leave your weakest hero on the wall.", troopsBadge:"DEFENSE TIP",
+  jointTitle:"Coordinated countdown attack", jointSummary:"Time your march so everyone hits the target together for maximum damage.", jointText:"1. Measure your march time with a test attack (for example, 15 seconds). 2. Wait for the 1:00 countdown to begin. 3. If your march takes 15 seconds, launch when 15–14 seconds remain. 4. When everyone times it this way, all squads arrive together and deal maximum damage.", jointBadge:"COORDINATION TIP", jointVideo:"VIDEO EXAMPLE",
+  zombieTitle:"Zombie Siege", zombieSummary:"How to survive the 20 waves, help allies and handle Bus Waves.", zombieText:"A visual guide to Zombie Siege: activate your garrison, keep enough troops available, reinforce allies and pay special attention to Bus Waves 4, 8, 12, 16 and 20.", zombieBadge:"EVENT GUIDE",
+  ghostTitle:"Ghost Ops", ghostSummary:"Mission selection, alliance sharing, hero requirements and reward strategy.", ghostText:"Two complementary Ghost Ops guides covering how missions work and how to coordinate them efficiently: prioritize valuable missions, share when alliance help matters, use the requested heroes and claim rewards quickly.", ghostBadge:"ALLIANCE GUIDE",
+  ghostNote:"The two images are complementary: one explains the basic flow and the other focuses on prioritization and teamwork."
+ },
+ de:{
+  choose:"KATEGORIE WÄHLEN", tipsCat:"TIPPS", tipsCatText:"Kurze, wirkungsvolle Tricks für den Alltag.", guidesCat:"GUIDES", guidesCatText:"Vollständige visuelle Anleitungen für Allianz-Events und Spielmechaniken.", back:"← Zurück", backCategories:"← Kategorien", open:"ÖFFNEN",
+  tipsSectionTitle:"Schnelle Tipps", tipsSectionText:"Kleine Änderungen, die Ressourcen sparen und deinen Account verbessern.", guidesSectionTitle:"Visuelle Guides", guidesSectionText:"Schritt-für-Schritt-Hilfen für Events, bei denen Koordination zählt.",
+  droneTitle:"Priorität der Drohnenchips", droneSummary:"Welche Chips der Taktischen Drohne sollten zuerst Ressourcen erhalten?", droneText:"Bei der Taktischen Drohne priorisiere die Chips in dieser Reihenfolge: 1 → 2 → 3 → 4. Investiere zuerst in den Chip mit der höchsten Priorität.", droneBadge:"DROHNEN-TIPP",
+  teleportTitle:"Kostenloser Serverwechsel", teleportSummary:"Während der Saisons zwischen teilnehmenden Servern wechseln, ohne Teleporter zu verbrauchen.", teleportText:"Während der Saisons kannst du über das Menü „Gruppierung“ auf andere Server wechseln, ohne Teleporter zu verbrauchen, und kostenlos zurückkehren. Zwischen zwei Sprüngen gilt eine Abklingzeit von 5 Minuten.", teleportBadge:"SAISON-TIPP",
+  troopsTitle:"Weniger Truppen bei Angriffen verlieren", troopsSummary:"Auch ohne Truppen an der Mauer können Soldaten aus den Trainingslagern verloren gehen.", troopsText:"Eine leere Mauer verhindert keine Verluste, wenn deine Basis durchbrochen wird. Um die Verluste aus den Trainingslagern zu minimieren, stelle deinen schwächsten Helden an die Mauer.", troopsBadge:"VERTEIDIGUNGS-TIPP",
+  jointTitle:"Gemeinsamer Countdown-Angriff", jointSummary:"Stimme deine Marschzeit ab, damit alle gleichzeitig treffen und maximalen Schaden verursachen.", jointText:"1. Miss deine Marschzeit mit einem Testangriff (zum Beispiel 15 Sekunden). 2. Warte, bis der Countdown von 1:00 beginnt. 3. Wenn dein Marsch 15 Sekunden dauert, greife an, wenn noch 15–14 Sekunden übrig sind. 4. Wenn alle so timen, treffen alle Trupps gleichzeitig ein und verursachen maximalen Schaden.", jointBadge:"KOORDINATIONS-TIPP", jointVideo:"VIDEO-BEISPIEL",
+  zombieTitle:"Zombie-Belagerung", zombieSummary:"So überstehst du 20 Wellen, hilfst Verbündeten und reagierst auf Bus-Wellen.", zombieText:"Visueller Guide zur Zombie-Belagerung: Garnison aktivieren, genug Truppen bereithalten, Verbündete verstärken und besonders auf die Bus-Wellen 4, 8, 12, 16 und 20 achten.", zombieBadge:"EVENT-GUIDE",
+  ghostTitle:"Geistermissionen", ghostSummary:"Missionsauswahl, Teilen in der Allianz, Heldenanforderungen und Belohnungsstrategie.", ghostText:"Zwei ergänzende Guides zu Geistermissionen: wertvolle Missionen priorisieren, nur dann teilen, wenn Allianz-Hilfe wichtig ist, die verlangten Helden einsetzen und Belohnungen schnell abholen.", ghostBadge:"ALLIANZ-GUIDE",
+  ghostNote:"Die beiden Bilder ergänzen sich: eines erklärt den grundlegenden Ablauf, das andere Prioritäten und Teamarbeit."
+ },
+ es:{
+  choose:"ELIGE UNA CATEGORÍA", tipsCat:"CONSEJOS", tipsCatText:"Trucos rápidos y útiles para el juego diario.", guidesCat:"GUÍAS", guidesCatText:"Tutoriales visuales completos para eventos y mecánicas de alianza.", back:"← Volver", backCategories:"← Categorías", open:"ABRIR",
+  tipsSectionTitle:"Consejos rápidos", tipsSectionText:"Pequeños cambios que ahorran recursos y mejoran tu cuenta.", guidesSectionTitle:"Guías visuales", guidesSectionText:"Material paso a paso para eventos en los que la coordinación marca la diferencia.",
+  droneTitle:"Prioridad de chips del dron", droneSummary:"¿En qué chips del Dron Táctico debes invertir primero?", droneText:"En el Dron Táctico, prioriza los chips en este orden: 1 → 2 → 3 → 4. Centra primero tus recursos en el chip de mayor prioridad antes de invertir fuertemente en los siguientes.", droneBadge:"CONSEJO DE DRON",
+  teleportTitle:"Teletransporte gratis entre servidores", teleportSummary:"Muévete entre servidores participantes durante las temporadas sin gastar teletransportadores.", teleportText:"Durante las temporadas puedes usar el menú de Agrupamiento para ir a otros servidores sin gastar teletransportadores y volver gratis a tu servidor de origen. Hay 5 minutos de reutilización obligatoria entre saltos.", teleportBadge:"CONSEJO DE TEMPORADA",
+  troopsTitle:"Pierde menos tropas si atacan tu base", troopsSummary:"Tus campos de entrenamiento pueden perder soldados aunque no tengas tropas en el muro.", troopsText:"Dejar el muro sin tropas no evita las bajas si rompen tu base. Para perder el menor número posible de soldados de los campos de entrenamiento, deja en el muro el héroe más débil que tengas.", troopsBadge:"CONSEJO DE DEFENSA",
+  jointTitle:"Ataque conjunto con cuenta regresiva", jointSummary:"Calcula tu tiempo de marcha para que todos golpeéis a la vez y hagáis el máximo daño.", jointText:"1. Mide tu tiempo con un ataque de prueba (por ejemplo, 15 segundos). 2. Espera a que comience la cuenta regresiva de 1:00. 3. Si tu tropa tarda 15 segundos en llegar, lanza cuando queden 15–14 segundos. 4. Si todos hacen lo mismo, las tropas impactan juntas y se consigue el máximo daño.", jointBadge:"CONSEJO DE COORDINACIÓN", jointVideo:"EJEMPLO EN VÍDEO",
+  zombieTitle:"Asedio zombi", zombieSummary:"Cómo superar las 20 oleadas, ayudar a la alianza y afrontar las oleadas de autobús.", zombieText:"Guía visual del Asedio Zombi: activa la guarnición, conserva tropas suficientes, refuerza a tus aliados y presta especial atención a las oleadas de autobús 4, 8, 12, 16 y 20.", zombieBadge:"GUÍA DE EVENTO",
+  ghostTitle:"Misiones fantasma", ghostSummary:"Selección de misiones, ayuda de alianza, héroes solicitados y estrategia de recompensas.", ghostText:"Dos guías complementarias sobre Misiones Fantasma: prioriza las misiones valiosas, comparte cuando la ayuda de alianza sea realmente útil, usa los héroes solicitados y recoge las recompensas cuanto antes.", ghostBadge:"GUÍA DE ALIANZA",
+  ghostNote:"Las dos imágenes se complementan: una explica el funcionamiento general y la otra se centra en la prioridad de misiones y el trabajo en equipo."
+ },
+ pt:{
+  choose:"ESCOLHE UMA CATEGORIA", tipsCat:"DICAS", tipsCatText:"Truques rápidos e úteis para o jogo diário.", guidesCat:"GUIAS", guidesCatText:"Tutoriais visuais completos para eventos e mecânicas de aliança.", back:"← Voltar", backCategories:"← Categorias", open:"ABRIR",
+  tipsSectionTitle:"Dicas rápidas", tipsSectionText:"Pequenas mudanças que poupam recursos e melhoram a tua conta.", guidesSectionTitle:"Guias visuais", guidesSectionText:"Material passo a passo para eventos em que a coordenação faz a diferença.",
+  droneTitle:"Prioridade dos chips do drone", droneSummary:"Em que chips do Drone Tático deves investir primeiro?", droneText:"No Drone Tático, prioriza os chips por esta ordem: 1 → 2 → 3 → 4. Concentra primeiro os recursos no chip de maior prioridade.", droneBadge:"DICA DO DRONE",
+  teleportTitle:"Teletransporte grátis entre servidores", teleportSummary:"Move-te entre servidores participantes durante as temporadas sem gastar teleportadores.", teleportText:"Durante as temporadas podes usar o menu de Agrupamento para ir a outros servidores sem gastar teleportadores e regressar gratuitamente. Há 5 minutos de reutilização obrigatória entre saltos.", teleportBadge:"DICA DE TEMPORADA",
+  troopsTitle:"Perde menos tropas se atacarem a tua base", troopsSummary:"Os campos de treino podem perder soldados mesmo sem tropas no muro.", troopsText:"Deixar o muro sem tropas não evita baixas se a base for invadida. Para minimizar as perdas dos campos de treino, deixa no muro o herói mais fraco que tiveres.", troopsBadge:"DICA DE DEFESA",
+  jointTitle:"Ataque conjunto na contagem regressiva", jointSummary:"Ajusta o tempo da marcha para que todos atinjam o alvo ao mesmo tempo e causem o máximo dano.", jointText:"1. Mede o tempo da tua marcha com um ataque de teste (por exemplo, 15 segundos). 2. Espera pelo início da contagem regressiva de 1:00. 3. Se a tua tropa demora 15 segundos a chegar, lança quando faltarem 15–14 segundos. 4. Se todos fizerem o mesmo, as tropas chegam juntas e causam o máximo dano.", jointBadge:"DICA DE COORDENAÇÃO", jointVideo:"EXEMPLO EM VÍDEO",
+  zombieTitle:"Cerco Zombi", zombieSummary:"Como sobreviver às 20 vagas, ajudar a aliança e lidar com as vagas de autocarro.", zombieText:"Guia visual do Cerco Zombi: ativa a guarnição, mantém tropas suficientes, reforça os aliados e presta especial atenção às vagas de autocarro 4, 8, 12, 16 e 20.", zombieBadge:"GUIA DE EVENTO",
+  ghostTitle:"Missões Fantasma", ghostSummary:"Seleção de missões, ajuda da aliança, heróis pedidos e estratégia de recompensas.", ghostText:"Dois guias complementares sobre Missões Fantasma: dá prioridade às missões valiosas, partilha quando a ajuda da aliança for realmente útil, usa os heróis pedidos e recolhe rapidamente as recompensas.", ghostBadge:"GUIA DE ALIANÇA",
+  ghostNote:"As duas imagens complementam-se: uma explica o funcionamento geral e a outra centra-se nas prioridades e no trabalho de equipa."
+ },
+ fr:{
+  choose:"CHOISIS UNE CATÉGORIE", tipsCat:"ASTUCES", tipsCatText:"Des astuces rapides et efficaces pour le jeu quotidien.", guidesCat:"GUIDES", guidesCatText:"Des tutoriels visuels complets pour les événements et mécaniques d’alliance.", back:"← Retour", backCategories:"← Catégories", open:"OUVRIR",
+  tipsSectionTitle:"Astuces rapides", tipsSectionText:"De petits changements qui économisent des ressources et améliorent ton compte.", guidesSectionTitle:"Guides visuels", guidesSectionText:"Du contenu pas à pas pour les événements où la coordination fait la différence.",
+  droneTitle:"Priorité des puces du drone", droneSummary:"Dans quelles puces du Drone Tactique faut-il investir en premier ?", droneText:"Pour le Drone Tactique, priorise les puces dans cet ordre : 1 → 2 → 3 → 4. Concentre d’abord tes ressources sur la puce la plus prioritaire.", droneBadge:"ASTUCE DRONE",
+  teleportTitle:"Téléportation gratuite entre serveurs", teleportSummary:"Passe d’un serveur participant à l’autre pendant les saisons sans consommer de téléporteurs.", teleportText:"Pendant les saisons, tu peux utiliser le menu de Groupement pour aller sur d’autres serveurs sans consommer de téléporteurs et revenir gratuitement. Un délai de 5 minutes s’applique entre deux sauts.", teleportBadge:"ASTUCE DE SAISON",
+  troopsTitle:"Perdre moins de troupes lors d’une attaque", troopsSummary:"Les camps d’entraînement peuvent perdre des soldats même sans troupes sur le mur.", troopsText:"Laisser le mur vide n’empêche pas les pertes si ta base est percée. Pour réduire au maximum les pertes des camps d’entraînement, place ton héros le plus faible sur le mur.", troopsBadge:"ASTUCE DÉFENSE",
+  jointTitle:"Attaque coordonnée avec compte à rebours", jointSummary:"Calcule ton temps de marche pour que tout le monde frappe en même temps et inflige un maximum de dégâts.", jointText:"1. Mesure ton temps de marche avec une attaque test (par exemple, 15 secondes). 2. Attends le début du compte à rebours de 1:00. 3. Si ta troupe met 15 secondes à arriver, lance quand il reste 15–14 secondes. 4. Si tout le monde fait pareil, toutes les troupes frappent ensemble et infligent un maximum de dégâts.", jointBadge:"ASTUCE COORDINATION", jointVideo:"EXEMPLE VIDÉO",
+  zombieTitle:"Siège Zombie", zombieSummary:"Comment survivre aux 20 vagues, aider l’alliance et gérer les vagues de bus.", zombieText:"Guide visuel du Siège Zombie : active la garnison, conserve assez de troupes, renforce tes alliés et surveille particulièrement les vagues de bus 4, 8, 12, 16 et 20.", zombieBadge:"GUIDE D’ÉVÉNEMENT",
+  ghostTitle:"Missions Fantômes", ghostSummary:"Choix des missions, aide de l’alliance, héros requis et stratégie de récompenses.", ghostText:"Deux guides complémentaires sur les Missions Fantômes : priorise les missions importantes, partage quand l’aide de l’alliance est utile, utilise les héros demandés et récupère rapidement les récompenses.", ghostBadge:"GUIDE D’ALLIANCE",
+  ghostNote:"Les deux images sont complémentaires : l’une explique le fonctionnement général, l’autre les priorités et le travail d’équipe."
+ }
+};
+
+
+const GUIDE_DETAILS = {
+ en:{
+  drone:{
+   intro:"Use the Tactical Drone chips efficiently by investing in them in the right order.",
+   sections:[
+    {title:"Priority order",text:"Prioritize the chips in this order: 1 → 2 → 3 → 4. Finish or strongly develop the highest-priority chip before spreading too many resources across the others.",image:"dron.webp",caption:"Tactical Drone chip priority reference."}
+   ]
+  },
+  teleport:{
+   intro:"During seasons, you can move between participating servers without spending teleport items.",
+   sections:[
+    {title:"1 · Open the season access",text:"Enter the active season interface from your base.",image:"tt1.jpg",caption:"Open the season access."},
+    {title:"2 · Enter Golden Kingdom",text:"Open Golden Kingdom from the season interface.",image:"tt2.jpg",caption:"Enter Golden Kingdom."},
+    {title:"3 · Open Grouping",text:"Use the Grouping option to see the participating servers.",image:"tt3.jpg",caption:"Open Grouping."},
+    {title:"4 · Choose a server",text:"Select a participating server and travel there. Returning to your home server is free. There is a mandatory 5-minute cooldown between inter-server jumps.",image:"tt4.jpg",caption:"Choose a participating server."}
+   ]
+  },
+  troops:{
+   intro:"An empty wall does not mean your soldiers are safe when your base is attacked.",
+   sections:[
+    {title:"What happens?",text:"Even if you have no units defending the wall, an attack on your base can still cause many soldiers to be lost from the training grounds.",image:"card-troops.jpg",caption:"A fortified base under attack."},
+    {title:"Why does it happen?",text:"Once the enemy breaks through the wall, internal buildings can be damaged, including the training grounds.",image:"card-troops.jpg",caption:"Internal structures remain vulnerable after a breach."},
+    {title:"Best strategy",text:"To reduce casualties as much as possible, leave your weakest hero on the wall. The objective is not necessarily to win the defense, but to protect what matters and minimize unnecessary losses.",image:"card-troops.jpg",caption:"Use the weakest hero to reduce troop losses."}
+   ]
+  },
+  joint:{
+   intro:"The goal of a coordinated countdown attack is for every participating squad to hit the target at almost exactly the same moment.",
+   sections:[
+    {title:"1 · Measure your march time",text:"Make a test attack and check how long your squad takes to reach the target. Example: 15 seconds.",image:"card-joint.jpg",caption:"Measure the travel time of your squad."},
+    {title:"2 · Wait for the countdown",text:"When the 1:00 countdown begins, stay ready and use your measured march time as the reference.",image:"card-joint.jpg",caption:"Wait for the countdown to begin."},
+    {title:"3 · Launch at the exact moment",text:"If your squad takes 15 seconds, launch when the countdown shows about 15–14 seconds remaining. Do not launch earlier or later.",image:"card-joint.jpg",caption:"Match the launch to your own march time."},
+    {title:"4 · Hit together",text:"If everyone calculates correctly, all squads arrive together and the alliance deals maximum combined damage.",image:"card-joint.jpg",caption:"Coordinated squads hit the target together."}
+   ],
+   video:"Watch the video on YouTube"
+  },
+  ghost:{
+   intro:"Ghost Ops appear every Thursday in the Secret Command Post. They are one of the best opportunities to obtain UR hero shards, exclusive weapons, equipment chests, speedups and resources.",
+   sections:[
+    {title:"How Ghost Ops work",text:"Pick your missions in the Secret Command Post and check which heroes each mission requires. Share important missions in alliance chat when you need help completing the requested hero lineup. When all requirements are met—usually with 4★ or higher heroes—the participants can receive the special rewards.",image:"card-ghost.jpg",caption:"A covert operation team preparing a mission."},
+    {title:"Mission priority",text:"Purple epic missions do not always need to be shared: you can often complete them yourself and save alliance help for the most valuable missions. Star missions have priority because they give better rewards. UR missions, especially UR missions with a star, should be prioritized whenever possible.",image:"card-ghost.jpg",caption:"Elite units preparing for a high-priority operation."},
+    {title:"Teamwork",text:"Do not launch every Ghost Ops mission at the same time. Stagger them so more alliance members have time to help and participate. Use the heroes specifically requested by the mission, and avoid occupying a help slot if another ally can provide the required hero.",image:"card-ghost.jpg",caption:"Alliance members coordinating a covert mission."},
+    {title:"Veteran tips",text:"Help 3 allies to obtain the extra assistance rewards. If you have already used all rewarded assists, you can still volunteer to complete another ally's hero requirements. Claim completed missions as soon as possible so your heroes become available again.",image:"card-ghost.jpg",caption:"Coordination produces more rewards for everyone."},
+    {title:"Recommended strategy",text:"Complete your 3 UR missions, help 3 allies on UR missions, volunteer to finish teams that are missing required heroes if you still have time, and claim all rewards promptly.",image:"card-ghost.jpg",caption:"Prioritize UR missions and alliance support."}
+   ]
+  },
+  zombie:{
+   intro:"Zombie Siege is a timed alliance event in which bases must survive 20 consecutive zombie waves. Each wave becomes more difficult.",
+   sections:[
+    {title:"1 · Activate your garrison",text:"Make sure the defense slot on your wall is activated and keep your main heroes and troops available. If zombies destroy your base, the event ends for you immediately and you lose access to the remaining rewards.",image:"card-zombie.jpg",caption:"Defenders hold the line against a zombie horde."},
+    {title:"2 · Reinforce your allies",text:"Send squads to allied bases to reinforce their garrisons. Keep enough troops available and replenish soldiers constantly. If you run out of troops while reinforcing an ally, you will no longer be able to defend that base.",image:"card-zombie.jpg",caption:"Allied bases need constant reinforcement."},
+    {title:"3 · Watch the Bus Waves",text:"Every four waves there is a special Bus Wave: 4, 8, 12, 16 and 20. These waves target random allied bases and can deal massive damage. The game announces the targets in alliance chat, so react quickly and reinforce them.",image:"card-zombie.jpg",caption:"Special waves require fast alliance coordination."},
+    {title:"Rewards",text:"The more waves you survive, the more points you earn and the better the rewards become.",image:"card-zombie.jpg",caption:"Survive more waves to earn better rewards."}
+   ]
+  }
+ },
+ de:{
+  drone:{intro:"Nutze die Chips der Taktischen Drohne effizient, indem du in der richtigen Reihenfolge investierst.",sections:[{title:"Prioritätsreihenfolge",text:"Priorisiere die Chips in dieser Reihenfolge: 1 → 2 → 3 → 4. Entwickle zuerst den wichtigsten Chip stark weiter, bevor du deine Ressourcen zu breit verteilst.",image:"dron.webp",caption:"Priorität der Chips der Taktischen Drohne."}]},
+  teleport:{intro:"Während der Saisons kannst du zwischen teilnehmenden Servern wechseln, ohne Teleporter zu verbrauchen.",sections:[
+   {title:"1 · Saisonzugang öffnen",text:"Öffne von deiner Basis aus die aktive Saisonoberfläche.",image:"tt1.jpg",caption:"Saisonzugang öffnen."},
+   {title:"2 · Goldenes Königreich öffnen",text:"Öffne das Goldene Königreich in der Saisonoberfläche.",image:"tt2.jpg",caption:"Goldenes Königreich öffnen."},
+   {title:"3 · Gruppierung öffnen",text:"Nutze „Gruppierung“, um die teilnehmenden Server zu sehen.",image:"tt3.jpg",caption:"Gruppierung öffnen."},
+   {title:"4 · Server auswählen",text:"Wähle einen teilnehmenden Server. Die Rückkehr auf deinen Heimatserver ist kostenlos. Zwischen zwei Server-Sprüngen gilt eine verpflichtende Abklingzeit von 5 Minuten.",image:"tt4.jpg",caption:"Teilnehmenden Server auswählen."}]},
+  troops:{intro:"Eine leere Mauer bedeutet nicht, dass deine Soldaten bei einem Angriff sicher sind.",sections:[
+   {title:"Was passiert?",text:"Auch ohne Einheiten an der Mauer kannst du bei einem Angriff auf deine Basis viele Soldaten aus den Trainingslagern verlieren.",image:"card-troops.jpg",caption:"Eine befestigte Basis wird angegriffen."},
+   {title:"Warum passiert das?",text:"Sobald der Feind die Mauer durchbricht, können interne Gebäude beschädigt werden, einschließlich der Trainingslager.",image:"card-troops.jpg",caption:"Interne Gebäude bleiben nach einem Durchbruch verwundbar."},
+   {title:"Beste Strategie",text:"Um Verluste möglichst klein zu halten, stelle deinen schwächsten Helden an die Mauer. Es geht nicht unbedingt darum, die Verteidigung zu gewinnen, sondern wichtige Ressourcen zu schützen.",image:"card-troops.jpg",caption:"Der schwächste Held kann Verluste verringern."}]},
+  joint:{intro:"Ziel eines koordinierten Countdown-Angriffs ist, dass alle beteiligten Trupps nahezu gleichzeitig treffen.",sections:[
+   {title:"1 · Marschzeit messen",text:"Führe einen Testangriff durch und prüfe, wie lange dein Trupp bis zum Ziel braucht. Beispiel: 15 Sekunden.",image:"card-joint.jpg",caption:"Marschzeit des Trupps messen."},
+   {title:"2 · Countdown abwarten",text:"Wenn der Countdown von 1:00 beginnt, bleib bereit und orientiere dich an deiner gemessenen Marschzeit.",image:"card-joint.jpg",caption:"Auf den Countdown warten."},
+   {title:"3 · Im richtigen Moment starten",text:"Braucht dein Trupp 15 Sekunden, starte bei etwa 15–14 Sekunden Restzeit. Nicht früher und nicht später.",image:"card-joint.jpg",caption:"Start an die eigene Marschzeit anpassen."},
+   {title:"4 · Gemeinsam treffen",text:"Wenn alle korrekt rechnen, treffen alle Trupps gemeinsam ein und die Allianz verursacht maximalen Gesamtschaden.",image:"card-joint.jpg",caption:"Alle Trupps treffen gleichzeitig."}],video:"Video auf YouTube ansehen"},
+  ghost:{intro:"Geistermissionen erscheinen jeden Donnerstag im Geheimen Kommandoposten und bieten besonders wertvolle Belohnungen wie UR-Heldenfragmente, Exklusivwaffen, Ausrüstungstruhen, Beschleuniger und Ressourcen.",sections:[
+   {title:"So funktionieren Geistermissionen",text:"Wähle Missionen im Geheimen Kommandoposten und prüfe die verlangten Helden. Teile wichtige Missionen im Allianz-Chat, wenn du Hilfe brauchst. Sind alle Anforderungen erfüllt – meist mit 4★ oder höheren Helden – können Teilnehmer die Spezialbelohnungen erhalten.",image:"card-ghost.jpg",caption:"Ein Einsatzteam bereitet eine geheime Mission vor."},
+   {title:"Missionspriorität",text:"Lila epische Missionen müssen nicht immer geteilt werden. Hebe Allianz-Hilfe für die wertvollsten Missionen auf. Stern-Missionen haben Vorrang, und UR-Missionen – besonders mit Stern – sollten möglichst priorisiert werden.",image:"card-ghost.jpg",caption:"Eliteeinheiten bereiten eine wichtige Operation vor."},
+   {title:"Teamarbeit",text:"Starte nicht alle Missionen gleichzeitig. Verteile sie zeitlich, damit mehr Mitglieder helfen können. Verwende die ausdrücklich verlangten Helden und blockiere keinen Hilfsplatz unnötig.",image:"card-ghost.jpg",caption:"Allianzmitglieder koordinieren eine geheime Operation."},
+   {title:"Veteranen-Tipps",text:"Hilf 3 Verbündeten für zusätzliche Hilfe-Belohnungen. Auch nach Verbrauch der belohnten Hilfen kannst du freiwillig weiterhelfen. Hole fertige Missionen schnell ab, damit deine Helden wieder verfügbar sind.",image:"card-ghost.jpg",caption:"Koordination bringt der gesamten Allianz mehr Belohnungen."},
+   {title:"Empfohlene Strategie",text:"Erledige deine 3 UR-Missionen, hilf 3 Verbündeten bei UR-Missionen, vervollständige wenn möglich Teams mit fehlenden Helden und hole alle Belohnungen zügig ab.",image:"card-ghost.jpg",caption:"UR-Missionen und Allianz-Hilfe priorisieren."}]},
+  zombie:{intro:"Die Zombie-Belagerung ist ein zeitlich begrenztes Allianz-Event mit 20 aufeinanderfolgenden Zombie-Wellen, die immer schwieriger werden.",sections:[
+   {title:"1 · Garnison aktivieren",text:"Aktiviere den Verteidigungsplatz an der Mauer und halte deine wichtigsten Helden und Truppen bereit. Wird deine Basis zerstört, endet das Event für dich sofort.",image:"card-zombie.jpg",caption:"Verteidiger halten eine Zombie-Horde auf."},
+   {title:"2 · Verbündete verstärken",text:"Schicke Trupps zu verbündeten Basen. Halte genügend Truppen bereit und fülle Soldaten laufend auf. Ohne Truppen kannst du die Basis eines Verbündeten nicht weiter verteidigen.",image:"card-zombie.jpg",caption:"Verbündete Basen brauchen ständig Verstärkung."},
+   {title:"3 · Bus-Wellen beobachten",text:"Alle vier Wellen kommt eine besondere Bus-Welle: 4, 8, 12, 16 und 20. Sie trifft zufällige verbündete Basen und kann massiven Schaden verursachen. Reagiere auf die Ankündigung im Allianz-Chat.",image:"card-zombie.jpg",caption:"Spezialwellen erfordern schnelle Koordination."},
+   {title:"Belohnungen",text:"Je mehr Wellen du überstehst, desto mehr Punkte und bessere Belohnungen erhältst du.",image:"card-zombie.jpg",caption:"Mehr überstandene Wellen bedeuten bessere Belohnungen."}]}
+ },
+ es:{
+  drone:{intro:"Aprovecha los chips del Dron Táctico invirtiendo en ellos en el orden correcto.",sections:[{title:"Orden de prioridad",text:"Prioriza los chips en este orden: 1 → 2 → 3 → 4. Desarrolla primero el chip de mayor prioridad antes de repartir demasiados recursos entre los demás.",image:"dron.webp",caption:"Referencia de prioridad de chips del Dron Táctico."}]},
+  teleport:{intro:"Durante las temporadas puedes moverte entre servidores participantes sin gastar teletransportadores.",sections:[
+   {title:"1 · Abre el acceso de temporada",text:"Entra en la interfaz de la temporada activa desde tu base.",image:"tt1.jpg",caption:"Abre el acceso de temporada."},
+   {title:"2 · Entra en Reino Dorado",text:"Abre Reino Dorado desde la interfaz de temporada.",image:"tt2.jpg",caption:"Entra en Reino Dorado."},
+   {title:"3 · Abre Agrupamiento",text:"Utiliza Agrupamiento para ver los servidores participantes.",image:"tt3.jpg",caption:"Abre Agrupamiento."},
+   {title:"4 · Elige un servidor",text:"Selecciona un servidor participante. Volver al servidor de origen es gratis. Hay un tiempo de reutilización obligatorio de 5 minutos entre saltos.",image:"tt4.jpg",caption:"Elige un servidor participante."}]},
+  troops:{intro:"Dejar el muro vacío no significa que tus soldados estén a salvo cuando atacan la base.",sections:[
+   {title:"¿Qué ocurre?",text:"Aunque no tengas unidades defendiendo el muro, un ataque a tu base puede provocar la pérdida de muchos soldados de los campos de entrenamiento.",image:"card-troops.jpg",caption:"Una base fortificada bajo ataque."},
+   {title:"¿Por qué ocurre?",text:"Cuando el enemigo rompe el muro, puede dañar edificios internos, incluidos los campos de entrenamiento.",image:"card-troops.jpg",caption:"Los edificios internos siguen siendo vulnerables tras romper el muro."},
+   {title:"La mejor estrategia",text:"Para reducir las bajas al mínimo, deja en el muro el héroe más débil que tengas. El objetivo no es necesariamente ganar la defensa, sino proteger lo importante y reducir pérdidas innecesarias.",image:"card-troops.jpg",caption:"El héroe más débil puede ayudar a reducir las pérdidas."}]},
+  joint:{intro:"El objetivo de un ataque coordinado con cuenta regresiva es que todos los escuadrones impacten prácticamente al mismo tiempo.",sections:[
+   {title:"1 · Mide el tiempo de marcha",text:"Haz un ataque de prueba y comprueba cuánto tarda tu escuadrón en llegar. Ejemplo: 15 segundos.",image:"card-joint.jpg",caption:"Mide el tiempo real de llegada de tu escuadrón."},
+   {title:"2 · Espera la cuenta regresiva",text:"Cuando empiece la cuenta atrás de 1:00, prepárate y utiliza tu tiempo de marcha como referencia.",image:"card-joint.jpg",caption:"Espera al inicio de la cuenta atrás."},
+   {title:"3 · Lanza en el momento exacto",text:"Si tu escuadrón tarda 15 segundos, lanza cuando queden aproximadamente 15–14 segundos. Ni antes ni después.",image:"card-joint.jpg",caption:"Ajusta el lanzamiento a tu tiempo de marcha."},
+   {title:"4 · Impacto conjunto",text:"Si todos calculan correctamente, las tropas llegan juntas y la alianza consigue el máximo daño combinado.",image:"card-joint.jpg",caption:"Los escuadrones golpean el objetivo al mismo tiempo."}],video:"Ver el vídeo en YouTube"},
+  ghost:{intro:"Las Misiones Fantasma aparecen todos los jueves en el Puesto de Mando Secreto. Son una de las mejores oportunidades para conseguir fragmentos de héroe UR, armas exclusivas, cofres de equipo, aceleradores y recursos.",sections:[
+   {title:"Cómo funcionan",text:"Escoge las misiones en el Puesto de Mando Secreto y comprueba qué héroes solicita cada una. Comparte las misiones importantes en el chat de alianza cuando necesites ayuda. Cuando se cumplen todos los requisitos —normalmente con héroes de 4★ o más— los participantes pueden recibir las recompensas especiales.",image:"card-ghost.jpg",caption:"Un equipo de operaciones se prepara para una misión secreta."},
+   {title:"Qué misiones priorizar",text:"Las misiones moradas épicas no siempre necesitan compartirse: muchas puedes hacerlas tú mismo y guardar la ayuda de la alianza para las más valiosas. Las misiones con estrella tienen prioridad. Prioriza siempre que puedas las UR, especialmente las UR con estrella.",image:"card-ghost.jpg",caption:"Unidades de élite preparando una operación prioritaria."},
+   {title:"Trabajo en equipo",text:"No lancéis todas las Misiones Fantasma a la vez. Hacedlo poco a poco para que más compañeros puedan ayudar y participar. Usa los héroes que pide expresamente la misión y evita ocupar un hueco si otro aliado puede aportar el héroe requerido.",image:"card-ghost.jpg",caption:"La alianza coordina una operación encubierta."},
+   {title:"Consejos veteranos",text:"Ayuda a 3 aliados para conseguir las recompensas extra de ayuda. Si ya has gastado las ayudas con recompensa, aún puedes ofrecerte como voluntario. Reclama las misiones terminadas cuanto antes para liberar a tus héroes.",image:"card-ghost.jpg",caption:"La coordinación aumenta las recompensas para todos."},
+   {title:"Estrategia recomendada",text:"Haz tus 3 misiones UR, ayuda a 3 aliados en misiones UR, completa equipos que aún necesiten héroes si te queda tiempo y reclama todas las recompensas cuanto antes.",image:"card-ghost.jpg",caption:"Prioriza las misiones UR y la ayuda de alianza."}]},
+  zombie:{intro:"Asedio Zombi es un evento cronometrado de alianza en el que las bases deben sobrevivir a 20 oleadas consecutivas de zombis, cada vez más difíciles.",sections:[
+   {title:"1 · Activa la guarnición",text:"Comprueba que la ranura de defensa del muro está activada y mantén disponibles tus héroes y tropas principales. Si los zombis destruyen tu base, el evento termina inmediatamente para ti.",image:"card-zombie.jpg",caption:"Los defensores contienen una horda zombi."},
+   {title:"2 · Refuerza a tus aliados",text:"Envía escuadrones a las bases aliadas. Mantén suficientes tropas disponibles y repón soldados constantemente. Si te quedas sin tropas, ya no podrás seguir defendiendo esa base.",image:"card-zombie.jpg",caption:"Las bases aliadas necesitan refuerzos constantes."},
+   {title:"3 · Vigila las oleadas de autobús",text:"Cada cuatro oleadas aparece una oleada especial: 4, 8, 12, 16 y 20. Atacan bases aliadas al azar y pueden causar muchísimo daño. El juego anuncia los objetivos en el chat de alianza, así que hay que reaccionar rápido.",image:"card-zombie.jpg",caption:"Las oleadas especiales exigen coordinación rápida."},
+   {title:"Recompensas",text:"Cuantas más oleadas sobrevivas, más puntos conseguirás y mejores serán las recompensas.",image:"card-zombie.jpg",caption:"Sobrevivir a más oleadas mejora las recompensas."}]}
+ },
+ pt:{
+  drone:{intro:"Aproveita os chips do Drone Tático investindo neles pela ordem correta.",sections:[{title:"Ordem de prioridade",text:"Prioriza os chips por esta ordem: 1 → 2 → 3 → 4. Desenvolve primeiro o chip de maior prioridade antes de distribuir demasiados recursos pelos restantes.",image:"dron.webp",caption:"Referência de prioridade dos chips do Drone Tático."}]},
+  teleport:{intro:"Durante as temporadas podes deslocar-te entre servidores participantes sem gastar teleportadores.",sections:[
+   {title:"1 · Abre o acesso da temporada",text:"Entra na interface da temporada ativa a partir da tua base.",image:"tt1.jpg",caption:"Abre o acesso da temporada."},
+   {title:"2 · Entra no Reino Dourado",text:"Abre o Reino Dourado a partir da interface da temporada.",image:"tt2.jpg",caption:"Entra no Reino Dourado."},
+   {title:"3 · Abre Agrupamento",text:"Usa Agrupamento para veres os servidores participantes.",image:"tt3.jpg",caption:"Abre Agrupamento."},
+   {title:"4 · Escolhe um servidor",text:"Seleciona um servidor participante. Regressar ao servidor de origem é grátis. Existe um tempo de reutilização obrigatório de 5 minutos entre saltos.",image:"tt4.jpg",caption:"Escolhe um servidor participante."}]},
+  troops:{intro:"Deixar o muro vazio não significa que os teus soldados estejam seguros quando a base é atacada.",sections:[
+   {title:"O que acontece?",text:"Mesmo sem unidades a defender o muro, um ataque à tua base pode provocar a perda de muitos soldados dos campos de treino.",image:"card-troops.jpg",caption:"Uma base fortificada sob ataque."},
+   {title:"Porque acontece?",text:"Quando o inimigo rompe o muro, pode danificar edifícios internos, incluindo os campos de treino.",image:"card-troops.jpg",caption:"Os edifícios internos continuam vulneráveis após a brecha."},
+   {title:"A melhor estratégia",text:"Para reduzir as baixas ao mínimo, deixa no muro o herói mais fraco que tiveres. O objetivo não é necessariamente ganhar a defesa, mas proteger o que importa e reduzir perdas desnecessárias.",image:"card-troops.jpg",caption:"O herói mais fraco pode ajudar a reduzir perdas."}]},
+  joint:{intro:"O objetivo de um ataque coordenado com contagem regressiva é fazer com que todos os esquadrões atinjam o alvo praticamente ao mesmo tempo.",sections:[
+   {title:"1 · Mede o tempo de marcha",text:"Faz um ataque de teste e verifica quanto tempo o teu esquadrão demora a chegar. Exemplo: 15 segundos.",image:"card-joint.jpg",caption:"Mede o tempo real de chegada do teu esquadrão."},
+   {title:"2 · Espera pela contagem regressiva",text:"Quando começar a contagem de 1:00, prepara-te e usa o teu tempo de marcha como referência.",image:"card-joint.jpg",caption:"Espera pelo início da contagem regressiva."},
+   {title:"3 · Lança no momento exato",text:"Se o teu esquadrão demora 15 segundos, lança quando faltarem aproximadamente 15–14 segundos. Nem antes nem depois.",image:"card-joint.jpg",caption:"Ajusta o lançamento ao teu tempo de marcha."},
+   {title:"4 · Impacto conjunto",text:"Se todos calcularem corretamente, as tropas chegam juntas e a aliança causa o máximo dano combinado.",image:"card-joint.jpg",caption:"Os esquadrões atingem o alvo ao mesmo tempo."}],video:"Ver o vídeo no YouTube"},
+  ghost:{intro:"As Missões Fantasma aparecem todas as quintas-feiras no Posto de Comando Secreto. São uma excelente oportunidade para obter fragmentos de herói UR, armas exclusivas, baús de equipamento, aceleradores e recursos.",sections:[
+   {title:"Como funcionam",text:"Escolhe as missões no Posto de Comando Secreto e verifica quais os heróis exigidos. Partilha as missões importantes no chat da aliança quando precisares de ajuda. Quando todos os requisitos estiverem completos — normalmente com heróis de 4★ ou mais — os participantes podem receber as recompensas especiais.",image:"card-ghost.jpg",caption:"Uma equipa de operações prepara uma missão secreta."},
+   {title:"Que missões priorizar",text:"As missões roxas épicas nem sempre precisam de ser partilhadas. Guarda a ajuda da aliança para as missões mais valiosas. As missões com estrela têm prioridade. Sempre que possível, prioriza as missões UR, sobretudo as UR com estrela.",image:"card-ghost.jpg",caption:"Unidades de elite preparam uma operação prioritária."},
+   {title:"Trabalho de equipa",text:"Não lancem todas as Missões Fantasma ao mesmo tempo. Lancem-nas pouco a pouco para que mais membros possam ajudar. Usa os heróis pedidos pela missão e evita ocupar um lugar de ajuda se outro aliado puder fornecer o herói necessário.",image:"card-ghost.jpg",caption:"A aliança coordena uma operação secreta."},
+   {title:"Dicas de veterano",text:"Ajuda 3 aliados para obter recompensas extra. Se já usaste todas as ajudas com recompensa, ainda podes voluntariar-te. Reclama as missões concluídas rapidamente para libertar os teus heróis.",image:"card-ghost.jpg",caption:"A coordenação aumenta as recompensas para todos."},
+   {title:"Estratégia recomendada",text:"Faz as tuas 3 missões UR, ajuda 3 aliados em missões UR, completa equipas a que faltem heróis se ainda tiveres tempo e reclama todas as recompensas rapidamente.",image:"card-ghost.jpg",caption:"Prioriza missões UR e ajuda à aliança."}]},
+  zombie:{intro:"O Cerco Zombi é um evento cronometrado da aliança em que as bases têm de sobreviver a 20 vagas consecutivas de zombis, cada vez mais difíceis.",sections:[
+   {title:"1 · Ativa a guarnição",text:"Confirma que a posição de defesa do muro está ativada e mantém disponíveis os teus heróis e tropas principais. Se os zombis destruírem a tua base, o evento termina imediatamente para ti.",image:"card-zombie.jpg",caption:"Os defensores enfrentam uma horda de zombis."},
+   {title:"2 · Reforça os teus aliados",text:"Envia esquadrões para bases aliadas. Mantém tropas suficientes e repõe soldados constantemente. Se ficares sem tropas, já não conseguirás continuar a defender essa base.",image:"card-zombie.jpg",caption:"As bases aliadas precisam de reforços constantes."},
+   {title:"3 · Atenção às vagas de autocarro",text:"A cada quatro vagas surge uma vaga especial: 4, 8, 12, 16 e 20. Atacam bases aliadas aleatoriamente e podem causar enormes danos. O jogo anuncia os alvos no chat da aliança, por isso reage rapidamente.",image:"card-zombie.jpg",caption:"As vagas especiais exigem coordenação rápida."},
+   {title:"Recompensas",text:"Quanto mais vagas sobreviveres, mais pontos ganhas e melhores serão as recompensas.",image:"card-zombie.jpg",caption:"Sobreviver a mais vagas melhora as recompensas."}]}
+ },
+ fr:{
+  drone:{intro:"Utilise efficacement les puces du Drone Tactique en investissant dans le bon ordre.",sections:[{title:"Ordre de priorité",text:"Priorise les puces dans cet ordre : 1 → 2 → 3 → 4. Développe d’abord fortement la puce la plus prioritaire avant de répartir trop de ressources sur les autres.",image:"dron.webp",caption:"Référence de priorité des puces du Drone Tactique."}]},
+  teleport:{intro:"Pendant les saisons, tu peux passer d’un serveur participant à l’autre sans consommer de téléporteurs.",sections:[
+   {title:"1 · Ouvre l’accès à la saison",text:"Entre dans l’interface de la saison active depuis ta base.",image:"tt1.jpg",caption:"Ouvre l’accès à la saison."},
+   {title:"2 · Entre dans le Royaume doré",text:"Ouvre le Royaume doré depuis l’interface de saison.",image:"tt2.jpg",caption:"Entre dans le Royaume doré."},
+   {title:"3 · Ouvre Groupement",text:"Utilise Groupement pour voir les serveurs participants.",image:"tt3.jpg",caption:"Ouvre Groupement."},
+   {title:"4 · Choisis un serveur",text:"Sélectionne un serveur participant. Le retour vers ton serveur d’origine est gratuit. Un délai obligatoire de 5 minutes s’applique entre deux changements de serveur.",image:"tt4.jpg",caption:"Choisis un serveur participant."}]},
+  troops:{intro:"Laisser le mur vide ne signifie pas que tes soldats sont en sécurité lorsque ta base est attaquée.",sections:[
+   {title:"Que se passe-t-il ?",text:"Même sans unités sur le mur, une attaque contre ta base peut entraîner la perte de nombreux soldats provenant des camps d’entraînement.",image:"card-troops.jpg",caption:"Une base fortifiée sous attaque."},
+   {title:"Pourquoi ?",text:"Lorsque l’ennemi franchit le mur, il peut endommager les bâtiments internes, y compris les camps d’entraînement.",image:"card-troops.jpg",caption:"Les bâtiments internes restent vulnérables après une brèche."},
+   {title:"Meilleure stratégie",text:"Pour réduire les pertes au minimum, place ton héros le plus faible sur le mur. Le but n’est pas forcément de gagner la défense, mais de protéger l’essentiel et de limiter les pertes inutiles.",image:"card-troops.jpg",caption:"Le héros le plus faible peut aider à réduire les pertes."}]},
+  joint:{intro:"Le but d’une attaque coordonnée avec compte à rebours est que toutes les escouades frappent la cible presque exactement au même moment.",sections:[
+   {title:"1 · Mesure le temps de marche",text:"Fais une attaque test et vérifie combien de temps ton escouade met pour arriver. Exemple : 15 secondes.",image:"card-joint.jpg",caption:"Mesure le temps réel d’arrivée de ton escouade."},
+   {title:"2 · Attends le compte à rebours",text:"Quand le compte à rebours de 1:00 commence, prépare-toi et utilise ton temps de marche comme référence.",image:"card-joint.jpg",caption:"Attends le début du compte à rebours."},
+   {title:"3 · Lance au moment exact",text:"Si ton escouade met 15 secondes, lance lorsqu’il reste environ 15–14 secondes. Ni avant ni après.",image:"card-joint.jpg",caption:"Adapte le lancement à ton temps de marche."},
+   {title:"4 · Impact simultané",text:"Si tout le monde calcule correctement, les troupes arrivent ensemble et l’alliance inflige le maximum de dégâts combinés.",image:"card-joint.jpg",caption:"Les escouades frappent la cible en même temps."}],video:"Voir la vidéo sur YouTube"},
+  ghost:{intro:"Les Missions Fantômes apparaissent chaque jeudi dans le Poste de Commandement Secret. Elles permettent notamment d’obtenir des fragments de héros UR, des armes exclusives, des coffres d’équipement, des accélérateurs et des ressources.",sections:[
+   {title:"Fonctionnement",text:"Choisis les missions dans le Poste de Commandement Secret et vérifie les héros demandés. Partage les missions importantes dans le chat d’alliance lorsque tu as besoin d’aide. Lorsque tous les critères sont remplis — généralement avec des héros 4★ ou plus — les participants peuvent recevoir les récompenses spéciales.",image:"card-ghost.jpg",caption:"Une équipe d’opérations prépare une mission secrète."},
+   {title:"Priorité des missions",text:"Les missions épiques violettes n’ont pas toujours besoin d’être partagées. Garde l’aide de l’alliance pour les missions les plus précieuses. Les missions avec une étoile sont prioritaires. Priorise autant que possible les missions UR, surtout les UR avec une étoile.",image:"card-ghost.jpg",caption:"Des unités d’élite préparent une opération prioritaire."},
+   {title:"Travail d’équipe",text:"Ne lancez pas toutes les Missions Fantômes en même temps. Espacez-les pour permettre à davantage de membres d’aider. Utilise les héros précisément demandés et évite de prendre une place d’aide si un autre allié peut fournir le héros requis.",image:"card-ghost.jpg",caption:"L’alliance coordonne une opération secrète."},
+   {title:"Conseils de vétéran",text:"Aide 3 alliés pour obtenir les récompenses supplémentaires. Même après avoir utilisé toutes tes aides récompensées, tu peux encore te porter volontaire. Réclame rapidement les missions terminées afin de libérer tes héros.",image:"card-ghost.jpg",caption:"La coordination augmente les récompenses pour tous."},
+   {title:"Stratégie recommandée",text:"Fais tes 3 missions UR, aide 3 alliés sur des missions UR, complète si possible les équipes auxquelles il manque des héros et récupère rapidement toutes les récompenses.",image:"card-ghost.jpg",caption:"Priorise les missions UR et l’aide à l’alliance."}]},
+  zombie:{intro:"Le Siège Zombie est un événement chronométré d’alliance dans lequel les bases doivent survivre à 20 vagues consécutives de zombies, de plus en plus difficiles.",sections:[
+   {title:"1 · Active la garnison",text:"Vérifie que l’emplacement de défense du mur est activé et garde tes héros et troupes principales disponibles. Si les zombies détruisent ta base, l’événement s’arrête immédiatement pour toi.",image:"card-zombie.jpg",caption:"Les défenseurs affrontent une horde de zombies."},
+   {title:"2 · Renforce tes alliés",text:"Envoie des escouades vers les bases alliées. Garde suffisamment de troupes et renouvelle régulièrement tes soldats. Sans troupes, tu ne pourras plus continuer à défendre cette base.",image:"card-zombie.jpg",caption:"Les bases alliées ont besoin de renforts constants."},
+   {title:"3 · Surveille les vagues de bus",text:"Toutes les quatre vagues arrive une vague spéciale : 4, 8, 12, 16 et 20. Elles ciblent au hasard des bases alliées et peuvent infliger d’énormes dégâts. Le jeu annonce les cibles dans le chat d’alliance, alors réagis vite.",image:"card-zombie.jpg",caption:"Les vagues spéciales exigent une coordination rapide."},
+   {title:"Récompenses",text:"Plus tu survis à de vagues, plus tu gagnes de points et meilleures sont les récompenses.",image:"card-zombie.jpg",caption:"Survivre à davantage de vagues améliore les récompenses."}]}
+ }
+};
+
 
 const DAILY = {
 en:[
@@ -248,37 +478,172 @@ function renderDaily(){
   </article>`).join("");
 }
 
+
+
 function renderTips(){
- const labels=I18N[lang].tt;
- const files=["tt1.jpg","tt2.jpg","tt3.jpg","tt4.jpg"];
- const target=document.getElementById("teleportSteps");
- if(target){
-   target.innerHTML=files.map((file,i)=>`
-     <div class="step-card">
-      <b>${labels[i]}</b>
-      <a href="assets/${file}" target="_blank" rel="noopener"><img src="assets/${file}" alt="${labels[i]}" loading="lazy"></a>
-     </div>`).join("");
+ const root=document.getElementById("tipsApp");
+ if(!root) return;
+ const t=TIPS_CONTENT[lang];
+ const d=GUIDE_DETAILS[lang];
+
+ const meta={
+  drone:{cat:"tips",title:t.droneTitle,summary:t.droneSummary,badge:t.droneBadge,cover:"card-drone.jpg"},
+  teleport:{cat:"tips",title:t.teleportTitle,summary:t.teleportSummary,badge:t.teleportBadge,cover:"card-teleport.jpg"},
+  troops:{cat:"tips",title:t.troopsTitle,summary:t.troopsSummary,badge:t.troopsBadge,cover:"card-troops.jpg"},
+  joint:{cat:"tips",title:t.jointTitle,summary:t.jointSummary,badge:t.jointBadge,cover:"card-joint.jpg"},
+  ghost:{cat:"guides",title:t.ghostTitle,summary:t.ghostSummary,badge:t.ghostBadge,cover:"card-ghost.jpg"},
+  zombie:{cat:"guides",title:t.zombieTitle,summary:t.zombieSummary,badge:t.zombieBadge,cover:"card-zombie.jpg"}
+ };
+
+ const card=id=>{
+   const x=meta[id];
+   return `<button class="tips-item-card" data-tip-open="${id}" aria-label="${x.title}">
+      <span class="tips-card-image"><img src="assets/${x.cover}" alt="" loading="lazy"></span>
+      <span class="tips-item-title">${x.title}</span>
+   </button>`;
+ };
+
+ root.innerHTML=`
+  <div class="tips-hub active" data-tips-view="hub">
+    <div class="tips-category-grid">
+      <button class="tips-category-card" data-tips-category="tips">
+        <img src="assets/category-tips.jpg" alt="${t.tipsCat}">
+        <span class="tips-category-copy"><span>${t.choose}</span><h3>${t.tipsCat}</h3><p>${t.tipsCatText}</p></span>
+      </button>
+      <button class="tips-category-card" data-tips-category="guides">
+        <img src="assets/category-guides.jpg" alt="${t.guidesCat}">
+        <span class="tips-category-copy"><span>${t.choose}</span><h3>${t.guidesCat}</h3><p>${t.guidesCatText}</p></span>
+      </button>
+    </div>
+  </div>
+
+  <div class="tips-section" data-tips-view="tips">
+    <div class="tips-section-head">
+      <div><h3>${t.tipsSectionTitle}</h3><p>${t.tipsSectionText}</p></div>
+      <button class="tips-back" data-tips-switch="guides">← ${t.guidesCat}</button>
+    </div>
+    <div class="tips-card-grid">${card("drone")}${card("teleport")}${card("troops")}${card("joint")}</div>
+  </div>
+
+  <div class="tips-section" data-tips-view="guides">
+    <div class="tips-section-head">
+      <div><h3>${t.guidesSectionTitle}</h3><p>${t.guidesSectionText}</p></div>
+      <button class="tips-back" data-tips-switch="tips">← ${t.tipsCat}</button>
+    </div>
+    <div class="tips-card-grid guides">${card("ghost")}${card("zombie")}</div>
+  </div>
+
+  <div class="tips-detail" data-tips-detail></div>`;
+
+ const showView=name=>{
+   root.querySelectorAll('[data-tips-view]').forEach(el=>el.classList.toggle('active',el.dataset.tipsView===name));
+   const detail=root.querySelector('[data-tips-detail]');
+   detail.classList.remove('active');
+   detail.innerHTML='';
+ };
+
+ function textBlock(title,text){
+   return `<div class="article-copy"><h4>${title}</h4><p>${text}</p></div>`;
  }
 
- let drone=document.getElementById("droneGuide");
- if(!drone){
-   const tipsPage=document.querySelector('[data-page="tips"]');
-   drone=document.createElement("article");
-   drone.id="droneGuide";
-   drone.className="feature-guide drone-guide";
-   tipsPage.appendChild(drone);
+ function imageBlock(file,caption,contain=false){
+   return `<figure class="article-visual${contain?" contain-image":""}">
+      <img src="assets/${file}" alt="${caption}" loading="lazy">
+      <figcaption>${caption}</figcaption>
+   </figure>`;
  }
- drone.innerHTML=`
-   <div class="feature-copy">
-     <span class="feature-badge">${I18N[lang].droneBadge}</span>
-     <h3>${I18N[lang].droneTitle}</h3>
-     <p>${I18N[lang].droneText}</p>
-   </div>
-   <div class="drone-visual">
-     <a href="assets/dron.webp" target="_blank" rel="noopener">
-       <img src="assets/dron.webp" alt="${I18N[lang].droneTitle}" loading="lazy">
-     </a>
-   </div>`;
+
+ function pair(title,text,file,caption,reverse=false,contain=false){
+   return `<section class="article-pair${reverse?" reverse":""}">
+      ${textBlock(title,text)}
+      ${imageBlock(file,caption,contain)}
+   </section>`;
+ }
+
+ function showDetail(id){
+   root.querySelectorAll('[data-tips-view]').forEach(el=>el.classList.remove('active'));
+   const x=meta[id], info=d[id], detail=root.querySelector('[data-tips-detail]');
+   let body='';
+
+   if(id==="drone"){
+     const s=info.sections[0];
+     body=`
+       <section class="article-single">
+         ${textBlock(s.title,s.text)}
+         ${imageBlock("dron.webp",s.caption,true)}
+       </section>`;
+   }
+
+   if(id==="teleport"){
+     body=`
+       <div class="article-steps-copy">
+         ${info.sections.map((s,i)=>`<div class="mini-step"><span>${i+1}</span><div><h4>${s.title}</h4><p>${s.text}</p></div></div>`).join("")}
+       </div>
+       <div class="teleport-gallery">
+         ${["tt1.jpg","tt2.jpg","tt3.jpg","tt4.jpg"].map((f,i)=>imageBlock(f,info.sections[i].caption,true)).join("")}
+       </div>`;
+   }
+
+   if(id==="troops"){
+     const a=info.sections;
+     body=`
+       ${pair(a[0].title+" · "+a[1].title,a[0].text+" "+a[1].text,"troops-base-attack-v7.jpg",a[0].caption,false,false)}
+       ${pair(a[2].title,a[2].text,"troops-hero-wall-v7.jpg",a[2].caption,true,false)}
+     `;
+   }
+
+   if(id==="joint"){
+     const jointPoster = `joint-attack-${lang}.png`;
+     body=`
+       <section class="translated-poster-guide single">
+         <figure class="full-guide-poster joint-poster">
+           <img src="assets/${jointPoster}" alt="${x.title}" loading="lazy">
+         </figure>
+       </section>
+       <div class="youtube-cta"><a href="https://www.youtube.com/watch?v=_vTQm_0X8Zk" target="_blank" rel="noopener noreferrer">▶ ${info.video}</a></div>`;
+   }
+
+   if(id==="ghost"){
+     const ghostPoster = `ghost-guide-${lang}.png`;
+     body=`
+       <section class="translated-poster-guide single ghost-single">
+         <figure class="full-guide-poster ghost-poster">
+           <img src="assets/${ghostPoster}" alt="${x.title}" loading="lazy">
+         </figure>
+       </section>`;
+   }
+
+   if(id==="zombie"){
+     const zombiePoster = `zombie-guide-${lang}-new.png`;
+     body=`
+       <section class="translated-poster-guide single">
+         <figure class="full-guide-poster zombie-poster">
+           <img src="assets/${zombiePoster}" alt="${x.title}" loading="lazy">
+         </figure>
+       </section>`;
+   }
+
+   detail.innerHTML=`
+    <div class="tips-detail-toolbar">
+      <span class="tips-detail-label">${x.badge}</span>
+      <button class="detail-back" data-detail-back>${t.back}</button>
+    </div>
+    <article class="tips-article natural-guide">
+      <header class="tips-article-hero">
+        <img src="assets/${x.cover}" alt="${x.title}">
+        <div><span>${x.badge}</span><h3>${x.title}</h3><p>${info.intro}</p></div>
+      </header>
+      <div class="natural-guide-body">${body}</div>
+    </article>`;
+
+   detail.classList.add('active');
+   detail.querySelector('[data-detail-back]').addEventListener('click',()=>showView(x.cat));
+   window.scrollTo({top:document.querySelector('[data-page="tips"]').offsetTop-75,behavior:'smooth'});
+ }
+
+ root.querySelectorAll('[data-tips-category]').forEach(b=>b.addEventListener('click',()=>showView(b.dataset.tipsCategory)));
+ root.querySelectorAll('[data-tips-switch]').forEach(b=>b.addEventListener('click',()=>showView(b.dataset.tipsSwitch)));
+ root.querySelectorAll('[data-tip-open]').forEach(b=>b.addEventListener('click',()=>showDetail(b.dataset.tipOpen)));
 }
 
 function applyLanguage(){

@@ -692,7 +692,10 @@ function renderGorillaGuide(){
     </div>
   </article>
   <div class="gorilla-expanded-head"><span>${g.expanded}</span><h3>${g.expanded}</h3><p>${g.expandedIntro}</p></div>
-  <iframe class="gorilla-frame" src="gorilla-guide-${lang}.html" title="${g.expanded}" loading="lazy"></iframe>`;
+  <a class="gorilla-full-guide-link" href="gorilla-guide-${lang}.html" target="_blank" rel="noopener" aria-label="${g.expanded}">
+    <img src="assets/gorilla-full-guide-cover.png" alt="${g.expanded}">
+    <span class="gorilla-full-guide-overlay"><b>${g.expanded}</b><em>↗</em></span>
+  </a>`;
  document.getElementById("gorillaClose").addEventListener("click",()=>{gorillaGuideOpen=false;renderGorillaGuide();document.querySelector('[data-page="heroes"]').scrollIntoView({behavior:"smooth"});});
 }
 

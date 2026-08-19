@@ -893,3 +893,18 @@ img{max-width:100%;display:block}
 /* Compact PDF guide flow: keep the unlock text beside the Rookie Partner image */
 .pdf-training-copy .pdf-unlock-lead{margin-top:22px!important;margin-bottom:12px!important}
 .pdf-training-copy .pdf-unlock-list{margin-bottom:0}
+
+
+/* Gorilla: PDF-faithful flowing layout + linked full-guide cover */
+.pdf-training-block{display:block!important;margin-top:18px!important}
+.pdf-training-block::after{content:"";display:block;clear:both}
+.pdf-rookie-figure{float:right;width:min(31%,330px);margin:0 0 16px 28px!important}
+.pdf-training-copy{display:block}
+.pdf-training-copy .pdf-unlock-lead{margin-top:18px!important}
+.gorilla-full-guide-link{position:relative;display:block;overflow:hidden;border:1px solid var(--line);border-radius:20px;background:#07111d;box-shadow:var(--shadow);text-decoration:none;max-width:1050px;margin:0 auto}
+.gorilla-full-guide-link img{display:block;width:100%;height:auto;aspect-ratio:1536/1024;object-fit:cover;transition:transform .22s ease,filter .22s ease}
+.gorilla-full-guide-link:hover img{transform:scale(1.018);filter:brightness(1.06)}
+.gorilla-full-guide-overlay{position:absolute;left:0;right:0;bottom:0;display:flex;align-items:center;justify-content:space-between;gap:15px;padding:16px 20px;background:linear-gradient(0deg,rgba(4,10,17,.96),rgba(4,10,17,.72),transparent);color:#fff}
+.gorilla-full-guide-overlay b{color:var(--gold);font-size:clamp(.95rem,2vw,1.2rem);letter-spacing:.04em}
+.gorilla-full-guide-overlay em{font-style:normal;font-size:1.6rem;color:var(--gold)}
+@media(max-width:760px){.pdf-rookie-figure{float:none;width:min(330px,85%);margin:16px auto!important}.gorilla-full-guide-overlay{padding:12px 14px}}

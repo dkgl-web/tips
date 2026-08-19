@@ -123,28 +123,71 @@
   <section class="page shell content-page" data-page="heroes">
     <div class="section-hero">
       <span class="section-code">04 // HEROES + OVERLORD</span>
-      <h2 data-i18n="heroesTitle">Heroes</h2>
-      <p data-i18n="heroesIntro">Skill and star priorities for the three main squads.</p>
+      <h2 data-i18n="heroesTitle">Heroes & Gorilla</h2>
+      <p data-i18n="heroesIntro">Squad priorities plus the basic and extended Overlord Gorilla guide.</p>
     </div>
-    <div class="heroes-grid">
-      <article class="hero-card">
-        <div class="hero-card-head"><span>MISSILE</span><h3 data-i18n="missileTitle">Missile Squad Guide</h3><p data-i18n="missileText">Skill prioritization and 5-star / level order.</p></div>
-        <a href="assets/missile-squad-guide.webp" target="_blank"><img src="assets/missile-squad-guide.webp" alt="Missile Squad Guide"></a>
+
+    <div class="heroes-grid heroes-hub-grid">
+      <article class="hero-card hero-link-card">
+        <div class="hero-card-head">
+          <span>MISSILE</span>
+          <h3 data-i18n="missileTitle">Missile Squad Guide</h3>
+          <p data-i18n="missileText">Skill prioritization and 5-star / level order.</p>
+        </div>
+        <a class="hero-page-link" data-guide-page="missile" href="hero-missile.html" target="_blank" rel="noopener">
+          <img src="assets/missile.png" alt="Missile Squad Guide">
+          <span class="card-open-mark">↗</span>
+        </a>
       </article>
-      <article class="hero-card">
-        <div class="hero-card-head"><span>AIR</span><h3 data-i18n="airTitle">Air Squad Guide</h3><p data-i18n="airText">Skill prioritization and 5-star / level order.</p></div>
-        <a href="assets/air-squad-guide.webp" target="_blank"><img src="assets/air-squad-guide.webp" alt="Air Squad Guide"></a>
+
+      <article class="hero-card hero-link-card">
+        <div class="hero-card-head">
+          <span>AIR</span>
+          <h3 data-i18n="airTitle">Air Squad Guide</h3>
+          <p data-i18n="airText">Skill prioritization and 5-star / level order.</p>
+        </div>
+        <a class="hero-page-link" data-guide-page="air" href="hero-air.html" target="_blank" rel="noopener">
+          <img src="assets/air.png" alt="Air Squad Guide">
+          <span class="card-open-mark">↗</span>
+        </a>
       </article>
-      <article class="hero-card">
-        <div class="hero-card-head"><span>TANK</span><h3 data-i18n="tankTitle">Tank Squad Guide</h3><p data-i18n="tankText">Skill prioritization and 5-star / level order.</p></div>
-        <a href="assets/tank-squad-guide.webp" target="_blank"><img src="assets/tank-squad-guide.webp" alt="Tank Squad Guide"></a>
+
+      <article class="hero-card hero-link-card">
+        <div class="hero-card-head">
+          <span>TANK</span>
+          <h3 data-i18n="tankTitle">Tank Squad Guide</h3>
+          <p data-i18n="tankText">Skill prioritization and 5-star / level order.</p>
+        </div>
+        <a class="hero-page-link" data-guide-page="tank" href="hero-tank.html" target="_blank" rel="noopener">
+          <img src="assets/tank.png" alt="Tank Squad Guide">
+          <span class="card-open-mark">↗</span>
+        </a>
       </article>
-      <article class="hero-card gorilla-card">
-        <div class="hero-card-head"><span>OVERLORD</span><h3 data-i18n="gorillaTitle">Overlord Gorilla Guide</h3><p data-i18n="gorillaText">Basic deployment guide plus the full extended walkthrough.</p></div>
-        <button class="gorilla-open-card" id="gorillaOpen" type="button"><img src="assets/gorilla-overlord-cover.png" alt="Overlord Gorilla"><span data-i18n="gorillaOpen">Open Gorilla guide</span></button>
+
+      <article class="hero-card hero-link-card gorilla-guide-card basic">
+        <div class="hero-card-head">
+          <span>OVERLORD · BASIC</span>
+          <h3 data-i18n="gorillaBasicTitle">Basic Overlord Gorilla Guide</h3>
+          <p data-i18n="gorillaBasicText">Essential deployment guide.</p>
+        </div>
+        <a class="hero-page-link gorilla-card-link" data-gorilla-guide="basic" href="gorilla-basic-guide-en.html" target="_blank" rel="noopener">
+          <img src="assets/gorilla-basic-guide-cover-en.png" alt="Basic Overlord Gorilla Guide">
+          <span class="guide-card-cta"><b data-i18n="gorillaBasicOpen">Open basic guide</b><em>↗</em></span>
+        </a>
+      </article>
+
+      <article class="hero-card hero-link-card gorilla-guide-card extended">
+        <div class="hero-card-head">
+          <span>OVERLORD · EXTENDED</span>
+          <h3 data-i18n="gorillaAdvancedTitle">Extended Overlord Gorilla Guide</h3>
+          <p data-i18n="gorillaAdvancedText">Complete Overlord walkthrough.</p>
+        </div>
+        <a class="hero-page-link gorilla-card-link" data-gorilla-guide="extended" href="gorilla-guide-en.html" target="_blank" rel="noopener">
+          <img src="assets/gorilla-extended-guide-cover-en.png" alt="Extended Overlord Gorilla Guide">
+          <span class="guide-card-cta"><b data-i18n="gorillaAdvancedOpen">Open extended guide</b><em>↗</em></span>
+        </a>
       </article>
     </div>
-    <div id="gorillaGuideRoot" class="gorilla-guide-root" aria-live="polite"></div>
   </section>
 
   <!-- TIPS & GUIDES -->

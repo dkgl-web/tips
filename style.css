@@ -924,3 +924,95 @@ img{max-width:100%;display:block}
         padding:12px 14px;
     }
 }
+
+
+/* =========================================================
+   HEROES & GORILLA · external page hub
+   ========================================================= */
+.heroes-hub-grid{
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  align-items:stretch;
+}
+.hero-link-card{
+  display:flex;
+  flex-direction:column;
+}
+.hero-link-card .hero-card-head{
+  min-height:145px;
+}
+.hero-page-link{
+  position:relative;
+  display:block;
+  margin-top:auto;
+  overflow:hidden;
+  background:#050b11;
+  border-top:1px solid rgba(255,255,255,.07);
+}
+.hero-page-link img{
+  width:100%;
+  aspect-ratio:16/10;
+  object-fit:cover;
+  transition:transform .28s ease,filter .28s ease;
+}
+.hero-page-link:hover img{
+  transform:scale(1.025);
+  filter:brightness(1.08);
+}
+.card-open-mark{
+  position:absolute;
+  right:14px;
+  bottom:14px;
+  width:42px;height:42px;
+  display:grid;place-items:center;
+  border-radius:50%;
+  background:rgba(5,13,22,.88);
+  border:1px solid rgba(255,195,73,.48);
+  color:var(--gold);
+  font-size:1.25rem;
+  font-weight:1000;
+  box-shadow:0 8px 25px rgba(0,0,0,.35);
+}
+.gorilla-guide-card{
+  grid-column:span 1;
+}
+.gorilla-guide-card.basic{
+  grid-column:1 / 2;
+}
+.gorilla-guide-card.extended{
+  grid-column:2 / 3;
+}
+.gorilla-card-link img{
+  aspect-ratio:16/10;
+}
+.guide-card-cta{
+  position:absolute;
+  left:14px;right:14px;bottom:14px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  padding:11px 13px;
+  border-radius:10px;
+  background:rgba(5,13,22,.91);
+  border:1px solid rgba(255,195,73,.35);
+  color:white;
+  backdrop-filter:blur(8px);
+}
+.guide-card-cta b{
+  text-transform:uppercase;
+  font-size:.82rem;
+  letter-spacing:.04em;
+}
+.guide-card-cta em{
+  color:var(--gold);
+  font-size:1.25rem;
+  font-style:normal;
+}
+@media(max-width:1030px){
+  .heroes-hub-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .gorilla-guide-card.basic,.gorilla-guide-card.extended{grid-column:auto}
+}
+@media(max-width:720px){
+  .heroes-hub-grid{grid-template-columns:1fr}
+  .hero-link-card .hero-card-head{min-height:0}
+}

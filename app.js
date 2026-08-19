@@ -25,6 +25,8 @@ en:{
  airTitle:"Air Squad Guide",airText:"Skill prioritization and 5-star / level order.",
  tankTitle:"Tank Squad Guide",tankText:"Skill prioritization and 5-star / level order.",
  gorillaTitle:"Overlord Gorilla Guide",gorillaText:"Basic deployment guide plus the full extended walkthrough.",gorillaOpen:"Open Gorilla guide",
+ gorillaBasicTitle:"Basic Overlord Gorilla Guide",gorillaBasicText:"The essential deployment guide: Rookie Partner I, required resources and skill priority.",gorillaBasicOpen:"Open basic guide",
+ gorillaAdvancedTitle:"Extended Overlord Gorilla Guide",gorillaAdvancedText:"The complete walkthrough: rescue, training, ranks, skills, F2P resources, radar, shops and more.",gorillaAdvancedOpen:"Open extended guide",
  seasonTip:"SEASON TIP",tipTeleportTitle:"Free inter-server teleport during seasons",
  tipTeleportText:"During seasons you can use the Grouping menu to move to other servers without spending teleport items, and return to your home server for free. There is a mandatory 5-minute cooldown between inter-server jumps.",
  footerMotto:"Performance · Good play · Teamwork",
@@ -56,6 +58,8 @@ de:{
  airTitle:"Guide für den Luft-Trupp",airText:"Skill-Priorisierung sowie 5-Sterne- und Level-Reihenfolge.",
  tankTitle:"Guide für den Panzer-Trupp",tankText:"Skill-Priorisierung sowie 5-Sterne- und Level-Reihenfolge.",
  gorillaTitle:"Guide zum Overlord-Gorilla",gorillaText:"Basisguide zum Einsatz plus vollständiger erweiterter Guide.",gorillaOpen:"Gorilla-Guide öffnen",
+ gorillaBasicTitle:"Basis-Guide zum Overlord-Gorilla",gorillaBasicText:"Der kompakte Einsatz-Guide: Rookie Partner I, benötigte Ressourcen und Skill-Priorität.",gorillaBasicOpen:"Basis-Guide öffnen",
+ gorillaAdvancedTitle:"Erweiterter Guide zum Overlord-Gorilla",gorillaAdvancedText:"Der komplette Guide: Rettung, Training, Ränge, Skills, F2P-Ressourcen, Radar, Shops und mehr.",gorillaAdvancedOpen:"Erweiterten Guide öffnen",
  seasonTip:"SAISON-TIPP",tipTeleportTitle:"Kostenloser Serverwechsel während der Saisons",
  tipTeleportText:"Während der Saisons kannst du über das Menü „Gruppierung“ auf andere Server wechseln, ohne Teleporter zu verbrauchen, und kostenlos auf deinen Heimatserver zurückkehren. Zwischen zwei Sprüngen gilt eine verpflichtende Abklingzeit von 5 Minuten.",
  footerMotto:"Leistung · Gutes Spiel · Teamgeist",
@@ -87,6 +91,8 @@ es:{
  airTitle:"Guía del escuadrón aéreo",airText:"Prioridad de habilidades y orden de 5 estrellas / nivel.",
  tankTitle:"Guía del escuadrón de tanques",tankText:"Prioridad de habilidades y orden de 5 estrellas / nivel.",
  gorillaTitle:"Guía del Gorila Overlord",gorillaText:"Guía básica para desplegarlo y guía ampliada completa.",gorillaOpen:"Abrir guía del Gorila",
+ gorillaBasicTitle:"Guía básica del Gorila Overlord",gorillaBasicText:"La guía esencial para desplegarlo: Rookie Partner I, recursos necesarios y prioridad de habilidades.",gorillaBasicOpen:"Abrir guía básica",
+ gorillaAdvancedTitle:"Guía ampliada del Gorila Overlord",gorillaAdvancedText:"La guía completa: rescate, entrenamiento, rangos, habilidades, recursos F2P, radar, tiendas y mucho más.",gorillaAdvancedOpen:"Abrir guía ampliada",
  seasonTip:"CONSEJO DE TEMPORADA",tipTeleportTitle:"Teletransporte gratuito entre servidores en temporada",
  tipTeleportText:"Durante las diferentes temporadas puedes usar el menú de Agrupamientos para teletransportarte a otros servidores sin gastar teletransportadores y volver gratis a tu servidor de origen. Hay un tiempo de reutilización obligatorio de 5 minutos entre cada salto interservidor.",
  footerMotto:"Rendimiento · Buen juego · Compañerismo",
@@ -118,6 +124,8 @@ pt:{
  airTitle:"Guia do esquadrão aéreo",airText:"Prioridade de habilidades e ordem de 5 estrelas / nível.",
  tankTitle:"Guia do esquadrão de tanques",tankText:"Prioridade de habilidades e ordem de 5 estrelas / nível.",
  gorillaTitle:"Guia do Gorila Overlord",gorillaText:"Guia básico para implantação e guia ampliado completo.",gorillaOpen:"Abrir guia do Gorila",
+ gorillaBasicTitle:"Guia básico do Gorila Overlord",gorillaBasicText:"O guia essencial para o implantar: Rookie Partner I, recursos necessários e prioridade de habilidades.",gorillaBasicOpen:"Abrir guia básico",
+ gorillaAdvancedTitle:"Guia ampliado do Gorila Overlord",gorillaAdvancedText:"O guia completo: resgate, treino, patentes, habilidades, recursos F2P, radar, lojas e muito mais.",gorillaAdvancedOpen:"Abrir guia ampliado",
  seasonTip:"DICA DE TEMPORADA",tipTeleportTitle:"Teletransporte gratuito entre servidores durante a temporada",
  tipTeleportText:"Durante as temporadas podes usar o menu de Agrupamento para ir a outros servidores sem gastar teleportadores e regressar gratuitamente ao teu servidor de origem. Existe um tempo de reutilização obrigatório de 5 minutos entre saltos.",
  footerMotto:"Rendimento · Bom jogo · Companheirismo",
@@ -149,6 +157,8 @@ fr:{
  airTitle:"Guide de l’escouade aérienne",airText:"Priorité des compétences et ordre 5 étoiles / niveaux.",
  tankTitle:"Guide de l’escouade de chars",tankText:"Priorité des compétences et ordre 5 étoiles / niveaux.",
  gorillaTitle:"Guide du Gorille Overlord",gorillaText:"Guide de base pour le déploiement puis guide avancé complet.",gorillaOpen:"Ouvrir le guide du Gorille",
+ gorillaBasicTitle:"Guide de base du Gorille Overlord",gorillaBasicText:"Le guide essentiel pour le déployer : Rookie Partner I, ressources nécessaires et priorité des compétences.",gorillaBasicOpen:"Ouvrir le guide de base",
+ gorillaAdvancedTitle:"Guide avancé du Gorille Overlord",gorillaAdvancedText:"Le guide complet : sauvetage, entraînement, rangs, compétences, ressources F2P, radar, boutiques et plus encore.",gorillaAdvancedOpen:"Ouvrir le guide avancé",
  seasonTip:"ASTUCE DE SAISON",tipTeleportTitle:"Téléportation gratuite entre serveurs pendant les saisons",
  tipTeleportText:"Pendant les saisons, tu peux utiliser le menu de Groupement pour aller sur d’autres serveurs sans consommer de téléporteurs et revenir gratuitement sur ton serveur d’origine. Un délai de récupération obligatoire de 5 minutes s’applique entre chaque saut.",
  footerMotto:"Performance · Bon jeu · Esprit d’équipe",
@@ -651,54 +661,15 @@ function renderTips(){
  root.querySelectorAll('[data-tip-open]').forEach(b=>b.addEventListener('click',()=>showDetail(b.dataset.tipOpen)));
 }
 
-const GORILLA_BASIC = {"en":{"kicker":"BASIC GUIDE","title":"Basic Overlord Gorilla Guide in Last War","section1":"1. The first objective: Rookie Partner I","p1":"Many players think that simply unlocking the Gorilla is enough to use it in combat. It is not. When the Gorilla appears at the end of Season 2, it still <b>cannot accompany your troops</b>. To deploy it in a squad, you must reach the rank <b>“Rookie Partner I”</b>, and the required items are:","resources":[["1,800","Training Certificates","gorilla-basic-training-certificates.png"],["300k","Training Guidebooks","gorilla-basic-training-guidebooks.png"],["24","Bond Badges","gorilla-basic-bond-badge.png"]],"bullets":["If you play for free, it will take some time to deploy the Gorilla (weeks or months, still to be calculated). If you want to spend money, there are several packs you can buy to progress very quickly, and you can deploy the Gorilla in 1 week for about 500 dollars.","After reaching the deployment objective, you can strengthen the Gorilla with additional training, rank promotions and skill upgrades using these additional items:"],"extra":[["Universal Overlord Shard","gorilla-basic-universal-shard.png"],["Overlord Skill Badge","gorilla-basic-skill-badge.png"]],"p2":"To deploy the Gorilla, look at its base and you will see three independent training trees. You must train <b>Attack, Defense and Survival</b> simultaneously. The system requires all three specialties to reach certain levels to unlock the different promotions. When each specialty reaches level 100, you can promote to <b>“Rookie Partner I”</b> using 4 Bond Badges.","p3":"After doing so, you will be able to deploy the Gorilla in one of your squads.","unlock":"At that moment, the following will also be unlocked:","unlockItems":["The Gorilla’s skills.","Advanced promotions.","The complete skill tree."],"section2":"2. Skill priority","priority":"You should prioritize the Gorilla’s skills as follows:","expanded":"EXTENDED GUIDE","expandedIntro":"Continue below with the extended Overlord Gorilla guide.","close":"Close Gorilla guide"},"de":{"kicker":"BASIS-GUIDE","title":"Basis-Guide zum Overlord-Gorilla in Last War","section1":"1. Das erste Ziel: Rookie Partner I","p1":"Viele Spieler glauben, dass es reicht, den Gorilla freizuschalten, um ihn im Kampf einzusetzen. Das stimmt nicht. Wenn der Gorilla am Ende von Saison 2 erscheint, <b>kann er deine Truppen noch nicht begleiten</b>. Um ihn in einem Trupp einzusetzen, musst du den Rang <b>„Rookie Partner I“</b> erreichen. Dafür brauchst du:","resources":[["1.800","Training Certificates","gorilla-basic-training-certificates.png"],["300k","Training Guidebooks","gorilla-basic-training-guidebooks.png"],["24","Bond Badges","gorilla-basic-bond-badge.png"]],"bullets":["Wenn du kostenlos spielst, wird es einige Zeit dauern, den Gorilla einzusetzen (Wochen oder Monate, noch zu berechnen). Wenn du Geld ausgeben möchtest, gibt es mehrere Pakete, mit denen du sehr schnell vorankommst; für ungefähr 500 Dollar kannst du den Gorilla in etwa 1 Woche einsetzen.","Nach Erreichen des Einsatz-Ziels kannst du den Gorilla durch zusätzliches Training, Rangaufstiege und Skill-Verbesserungen weiter stärken. Dafür werden zusätzlich folgende Gegenstände verwendet:"],"extra":[["Universal Overlord Shard","gorilla-basic-universal-shard.png"],["Overlord Skill Badge","gorilla-basic-skill-badge.png"]],"p2":"Um den Gorilla einzusetzen, schau auf seine Basis. Dort siehst du drei unabhängige Trainingsbäume. Du musst <b>Angriff, Verteidigung und Überleben</b> gleichzeitig trainieren. Das System verlangt, dass alle drei Spezialisierungen bestimmte Stufen erreichen, um die verschiedenen Beförderungen freizuschalten. Sobald jede Spezialisierung Stufe 100 erreicht, kannst du mit 4 Bond Badges auf <b>„Rookie Partner I“</b> befördern.","p3":"Danach kannst du den Gorilla in einem deiner Trupps einsetzen.","unlock":"In diesem Moment werden außerdem freigeschaltet:","unlockItems":["Die Fähigkeiten des Gorillas.","Fortgeschrittene Beförderungen.","Der vollständige Fähigkeitsbaum."],"section2":"2. Priorität der Fähigkeiten","priority":"Du solltest die Fähigkeiten des Gorillas in folgender Reihenfolge priorisieren:","expanded":"ERWEITERTER GUIDE","expandedIntro":"Darunter folgt der ausführliche Guide zum Overlord-Gorilla.","close":"Gorilla-Guide schließen"},"es":{"kicker":"GUÍA BÁSICA","title":"Guía básica del Gorila Overlord en Last War","section1":"1. El primer objetivo: Rookie Partner I","p1":"Muchos jugadores creen que basta con desbloquear el gorila para utilizarlo en combate. No es así. Cuando el gorila aparece al final de la temporada 2, todavía <b>no puede acompañar a tus tropas</b>. Para poder desplegarlo en un escuadrón, debes alcanzar el rango a <b>“Socio Novato I”</b> y los elementos necesarios son:","resources":[["1800","certificados de formación","gorilla-basic-training-certificates.png"],["300k","manuales de capacitación","gorilla-basic-training-guidebooks.png"],["24","insignias de Bond","gorilla-basic-bond-badge.png"]],"bullets":["Si juegas gratis, tardarás un tiempo en desplegar al gorila (semanas o meses, aún por calcular). Si quieres gastar dinero, hay varios paquetes que puedes comprar para avanzar muy rápido y podrás desplegar al gorila en 1 semana por unos 500 dólares.","Tras alcanzar el objetivo de despliegue, puedes fortalecer al Gorila con entrenamiento adicional, ascensos de rango y mejora de habilidades utilizando además los siguientes elementos:"],"extra":[["Fragmento universal del señor supremo","gorilla-basic-universal-shard.png"],["Insignia de habilidad de señor supremo","gorilla-basic-skill-badge.png"]],"p2":"Para desplegar el gorila, debes fijarte en su base y verás tres árboles de entrenamiento independientes. Debes entrenar simultáneamente <b>Ataque, Defensa y Supervivencia</b>. El sistema exige que las tres especialidades alcancen determinados niveles para desbloquear las diferentes promociones. Al alcanzar el nivel 100, en cada especialidad podrás realizar el ascenso al rango <b>«Rookie Partner I»</b> utilizando 4 insignias de vínculo (Bond Badges).","p3":"Después de hacerlo, podrás desplegar al gorila en uno de tus escuadrones.","unlock":"En ese momento, también se desbloquearán:","unlockItems":["Las habilidades del gorila.","Las promociones avanzadas.","El árbol completo de habilidades."],"section2":"2. Prioridad de las habilidades","priority":"Debes priorizar las habilidades del gorila de la siguiente forma:","expanded":"GUÍA AMPLIADA","expandedIntro":"A continuación puedes consultar la guía ampliada del Gorila Overlord.","close":"Cerrar guía del Gorila"},"pt":{"kicker":"GUIA BÁSICO","title":"Guia básico do Gorila Overlord em Last War","section1":"1. O primeiro objetivo: Rookie Partner I","p1":"Muitos jogadores pensam que basta desbloquear o gorila para utilizá-lo em combate. Não é assim. Quando o gorila aparece no final da Temporada 2, ainda <b>não pode acompanhar as tuas tropas</b>. Para poder colocá-lo num esquadrão, tens de alcançar o posto <b>“Rookie Partner I”</b>, e os itens necessários são:","resources":[["1.800","certificados de formação","gorilla-basic-training-certificates.png"],["300k","manuais de formação","gorilla-basic-training-guidebooks.png"],["24","insígnias de Bond","gorilla-basic-bond-badge.png"]],"bullets":["Se jogares gratuitamente, demorará algum tempo a colocar o gorila em combate (semanas ou meses, ainda por calcular). Se quiseres gastar dinheiro, existem vários pacotes que podes comprar para avançar muito rapidamente e poderás colocar o gorila em cerca de 1 semana por aproximadamente 500 dólares.","Depois de alcançares o objetivo de implantação, podes fortalecer o Gorila com treino adicional, promoções de posto e melhoria de habilidades, utilizando também os seguintes itens:"],"extra":[["Fragmento Universal do Overlord","gorilla-basic-universal-shard.png"],["Insígnia de Habilidade do Overlord","gorilla-basic-skill-badge.png"]],"p2":"Para colocar o gorila em combate, olha para a sua base e verás três árvores de treino independentes. Deves treinar simultaneamente <b>Ataque, Defesa e Sobrevivência</b>. O sistema exige que as três especialidades atinjam determinados níveis para desbloquear as diferentes promoções. Ao atingir o nível 100 em cada especialidade, poderás realizar a promoção para <b>“Rookie Partner I”</b> utilizando 4 Bond Badges.","p3":"Depois disso, poderás colocar o gorila num dos teus esquadrões.","unlock":"Nesse momento, também serão desbloqueados:","unlockItems":["As habilidades do gorila.","As promoções avançadas.","A árvore completa de habilidades."],"section2":"2. Prioridade das habilidades","priority":"Deves priorizar as habilidades do gorila da seguinte forma:","expanded":"GUIA AMPLIADO","expandedIntro":"A seguir podes consultar o guia ampliado do Gorila Overlord.","close":"Fechar guia do Gorila"},"fr":{"kicker":"GUIDE DE BASE","title":"Guide de base du Gorille Overlord dans Last War","section1":"1. Le premier objectif : Rookie Partner I","p1":"Beaucoup de joueurs pensent qu’il suffit de débloquer le gorille pour l’utiliser au combat. Ce n’est pas le cas. Lorsque le gorille apparaît à la fin de la Saison 2, il <b>ne peut pas encore accompagner tes troupes</b>. Pour pouvoir le déployer dans une escouade, tu dois atteindre le rang <b>« Rookie Partner I »</b>, et les objets nécessaires sont :","resources":[["1 800","certificats d’entraînement","gorilla-basic-training-certificates.png"],["300k","manuels d’entraînement","gorilla-basic-training-guidebooks.png"],["24","insignes de Bond","gorilla-basic-bond-badge.png"]],"bullets":["Si tu joues gratuitement, il te faudra un certain temps pour déployer le gorille (des semaines ou des mois, encore à calculer). Si tu veux dépenser de l’argent, plusieurs packs permettent d’avancer très vite et de déployer le gorille en environ 1 semaine pour près de 500 dollars.","Après avoir atteint l’objectif de déploiement, tu peux renforcer le Gorille avec de l’entraînement supplémentaire, des promotions de rang et l’amélioration de ses compétences en utilisant aussi les objets suivants :"],"extra":[["Fragment universel de l’Overlord","gorilla-basic-universal-shard.png"],["Insigne de compétence de l’Overlord","gorilla-basic-skill-badge.png"]],"p2":"Pour déployer le gorille, regarde sa base : tu verras trois arbres d’entraînement indépendants. Tu dois entraîner simultanément <b>Attaque, Défense et Survie</b>. Le système exige que les trois spécialités atteignent certains niveaux pour débloquer les différentes promotions. Lorsque chaque spécialité atteint le niveau 100, tu peux effectuer la promotion au rang <b>« Rookie Partner I »</b> en utilisant 4 Bond Badges.","p3":"Après cela, tu pourras déployer le gorille dans l’une de tes escouades.","unlock":"À ce moment-là, seront également débloqués :","unlockItems":["Les compétences du gorille.","Les promotions avancées.","L’arbre complet des compétences."],"section2":"2. Priorité des compétences","priority":"Tu dois donner la priorité aux compétences du gorille dans l’ordre suivant :","expanded":"GUIDE AVANCÉ","expandedIntro":"Tu peux ensuite consulter le guide avancé complet du Gorille Overlord.","close":"Fermer le guide du Gorille"}};
-
-let gorillaGuideOpen=false;
-function renderGorillaGuide(){
- const root=document.getElementById("gorillaGuideRoot");
- if(!root) return;
- if(!gorillaGuideOpen){root.innerHTML="";root.classList.remove("active");return;}
- const g=GORILLA_BASIC[lang];
- const resourceRows=g.resources.map(r=>`<div class="pdf-resource"><img src="assets/${r[2]}" alt=""><div><strong>${r[0]}</strong> <span>${r[1]}</span></div></div>`).join("");
- const extraRows=g.extra.map(r=>`<div class="pdf-extra-resource"><img src="assets/${r[1]}" alt=""><span>${r[0]}</span></div>`).join("");
- const unlocks=g.unlockItems.map(x=>`<li>${x}</li>`).join("");
- root.classList.add("active");
- root.innerHTML=`
-  <div class="gorilla-toolbar"><span>${g.kicker}</span><button id="gorillaClose" type="button">× ${g.close}</button></div>
-  <article class="gorilla-basic-guide pdf-faithful-guide">
-    <div class="pdf-guide-inner">
-      <h2>${g.title}</h2>
-      <section class="pdf-basic-section">
-        <h3>${g.section1}</h3>
-        <p>${g.p1}</p>
-        <div class="pdf-resource-list">${resourceRows}</div>
-        <ul class="pdf-source-bullets"><li>${g.bullets[0]}</li><li>${g.bullets[1]}</li></ul>
-        <div class="pdf-extra-list">${extraRows}</div>
-        <div class="pdf-training-block">
-          <div class="pdf-training-copy">
-            <p>${g.p2} <img class="pdf-inline-badge" src="assets/gorilla-basic-bond-badge-inline.png" alt="Bond Badge"></p>
-            <p>${g.p3}</p>
-            <p class="pdf-unlock-lead">${g.unlock}</p>
-            <ul class="pdf-unlock-list">${unlocks}</ul>
-          </div>
-          <figure class="pdf-rookie-figure"><img src="assets/gorilla-basic-rookie-partner.png" alt="Rookie Partner I"></figure>
-        </div>
-      </section>
-      <section class="pdf-basic-section pdf-priority-section">
-        <h3>${g.section2}</h3>
-        <p>${g.priority}</p>
-        <figure class="pdf-priority-figure"><img src="assets/gorilla-basic-priority-skills.png" alt="Priority skills"></figure>
-      </section>
-    </div>
-  </article>
-  <div class="gorilla-expanded-head"><span>${g.expanded}</span><h3>${g.expanded}</h3><p>${g.expandedIntro}</p></div>
-  <a class="gorilla-full-guide-link" href="gorilla-guide-${lang}.html" target="_blank" rel="noopener" aria-label="${g.expanded}">
-    <img src="assets/gorilla-full-guide-cover.png" alt="${g.expanded}">
-    <span class="gorilla-full-guide-overlay"><b>${g.expanded}</b><em>↗</em></span>
-  </a>`;
- document.getElementById("gorillaClose").addEventListener("click",()=>{gorillaGuideOpen=false;renderGorillaGuide();document.querySelector('[data-page="heroes"]').scrollIntoView({behavior:"smooth"});});
+function updateExternalGuideLinks(){
+  document.querySelectorAll("[data-gorilla-guide]").forEach(a=>{
+    const type=a.dataset.gorillaGuide;
+    a.href = type==="basic" ? `gorilla-basic-guide-${lang}.html` : `gorilla-guide-${lang}.html`;
+  });
+  document.querySelectorAll("[data-guide-page]").forEach(a=>{
+    a.href = `hero-${a.dataset.guidePage}.html?lang=${lang}`;
+  });
 }
-
 
 function applyLanguage(){
  document.documentElement.lang=lang;
@@ -707,7 +678,7 @@ function applyLanguage(){
    if(I18N[lang][k]) el.textContent=I18N[lang][k];
  });
  document.querySelectorAll(".lang").forEach(b=>b.classList.toggle("active",b.dataset.lang===lang));
- renderDaily(); renderTips(); renderGorillaGuide();
+ renderDaily(); renderTips(); updateExternalGuideLinks();
 }
 
 function showRoute(name, updateHash=true){
@@ -721,7 +692,6 @@ function showRoute(name, updateHash=true){
 }
 
 document.querySelectorAll("[data-route]").forEach(el=>el.addEventListener("click",()=>showRoute(el.dataset.route)));
-document.getElementById("gorillaOpen")?.addEventListener("click",()=>{gorillaGuideOpen=true;renderGorillaGuide();setTimeout(()=>document.getElementById("gorillaGuideRoot")?.scrollIntoView({behavior:"smooth",block:"start"}),30);});
 
 document.querySelectorAll(".lang").forEach(el=>el.addEventListener("click",()=>{
   lang=el.dataset.lang;

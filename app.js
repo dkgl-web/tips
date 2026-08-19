@@ -3,7 +3,7 @@ en:{
  droneBadge:"DRONE GUIDE",
  droneTitle:"Which drone chips should you prioritize?",
  droneText:"For the Tactical Drone, prioritize the chips in this order: 1 → 2 → 3 → 4. Focus your resources on the highest-priority chip first before investing heavily in the next ones.",
- navHome:"Home",navDaily:"Daily Routine",navAlliances:"Alliances",navEvents:"Events",navHeroes:"Heroes",navTips:"Tips & Guides",
+ navHome:"Home",navDaily:"Daily Routine",navAlliances:"Alliances",navEvents:"Events",navHeroes:"Heroes & Gorilla",navTips:"Tips & Guides",
  homeMotto:"Together we build, together we win.",homeValues:"Performance · Good play · Teamwork",
  homeIntro:"We grow by playing well, helping each other and facing every challenge as a team.",
  homeDaily:"Open Daily Routine",homeTips:"Open Tips & Guides",
@@ -11,19 +11,20 @@ en:{
  valueTeamwork:"Teamwork",valueTeamworkText:"Help, contribute and grow together.",
  valueGoodPlay:"Good play",valueGoodPlayText:"Compete with respect and play clean.",
  tileDailyTitle:"Daily Routine",tileDailyText:"Daily actions to maximize rewards and progress.",
- tileHeroesTitle:"Heroes",tileHeroesText:"Squad priorities and visual hero guides.",
+ tileHeroesTitle:"Heroes & Gorilla",tileHeroesText:"Squad priorities, hero guides and the Overlord Gorilla.",
  tileTipsTitle:"Tips & Guides",tileTipsText:"Useful tricks that save time and resources.",
  manifestoKicker:"OUR WAY OF PLAYING",manifestoTitle:"A strong alliance grows through performance, good play and teamwork.",
  manifestoText:"We want people who participate, help the team and enjoy improving together. DKGL is competition with respect, organization and camaraderie.",
  dailyTitle:"Daily Growth Routine",dailyIntro:"A practical routine to collect the easiest rewards and keep your account growing.",
  alliancesTitle:"Alliances",alliancesIntro:"Coordination, cooperation and alliance organization.",
  eventsTitle:"Events",eventsIntro:"Priorities, calendars and event strategies.",
- heroesTitle:"Heroes",heroesIntro:"Skill and star priorities for the three main squads.",
+ heroesTitle:"Heroes & Gorilla",heroesIntro:"Squad priorities plus the basic and extended Overlord Gorilla guide.",
  tipsTitle:"Tips & Guides",tipsIntro:"Quick tricks and complete visual guides, organized so you can find what you need fast.",
  comingSoon:"More guides coming soon",alliancesPlaceholder:"This area is ready for alliance schedules, coordination, donations and war organization.",eventsPlaceholder:"This area is ready for event guides and visual walkthroughs.",
  missileTitle:"Missile Squad Guide",missileText:"Skill prioritization and 5-star / level order.",
  airTitle:"Air Squad Guide",airText:"Skill prioritization and 5-star / level order.",
  tankTitle:"Tank Squad Guide",tankText:"Skill prioritization and 5-star / level order.",
+ gorillaTitle:"Overlord Gorilla Guide",gorillaText:"Basic deployment guide plus the full extended walkthrough.",gorillaOpen:"Open Gorilla guide",
  seasonTip:"SEASON TIP",tipTeleportTitle:"Free inter-server teleport during seasons",
  tipTeleportText:"During seasons you can use the Grouping menu to move to other servers without spending teleport items, and return to your home server for free. There is a mandatory 5-minute cooldown between inter-server jumps.",
  footerMotto:"Performance · Good play · Teamwork",
@@ -33,7 +34,7 @@ de:{
  droneBadge:"DROHNEN-GUIDE",
  droneTitle:"Welche Drohnenchips solltest du priorisieren?",
  droneText:"Bei der Taktischen Drohne priorisiere die Chips in dieser Reihenfolge: 1 → 2 → 3 → 4. Investiere deine Ressourcen zuerst in den Chip mit der höchsten Priorität, bevor du die nächsten stark ausbaust.",
- navHome:"Start",navDaily:"Tägliche Routine",navAlliances:"Allianzen",navEvents:"Events",navHeroes:"Helden",navTips:"Tipps & Guides",
+ navHome:"Start",navDaily:"Tägliche Routine",navAlliances:"Allianzen",navEvents:"Events",navHeroes:"Helden & Gorilla",navTips:"Tipps & Guides",
  homeMotto:"Gemeinsam bauen wir auf, gemeinsam gewinnen wir.",homeValues:"Leistung · Gutes Spiel · Teamgeist",
  homeIntro:"Wir wachsen, indem wir gut spielen, einander helfen und jede Herausforderung als Team angehen.",
  homeDaily:"Tägliche Routine öffnen",homeTips:"Tipps & Guides öffnen",
@@ -41,19 +42,20 @@ de:{
  valueTeamwork:"Teamgeist",valueTeamworkText:"Helfen, beitragen und gemeinsam wachsen.",
  valueGoodPlay:"Gutes Spiel",valueGoodPlayText:"Mit Respekt konkurrieren und fair spielen.",
  tileDailyTitle:"Tägliche Routine",tileDailyText:"Tägliche Aktionen für mehr Belohnungen und Fortschritt.",
- tileHeroesTitle:"Helden",tileHeroesText:"Trupp-Prioritäten und visuelle Helden-Guides.",
+ tileHeroesTitle:"Helden & Gorilla",tileHeroesText:"Trupp-Prioritäten, Helden-Guides und der Overlord-Gorilla.",
  tileTipsTitle:"Tipps & Guides",tileTipsText:"Nützliche Tricks, die Zeit und Ressourcen sparen.",
  manifestoKicker:"UNSERE SPIELWEISE",manifestoTitle:"Eine starke Allianz wächst durch Leistung, gutes Spiel und Teamgeist.",
  manifestoText:"Wir wollen Spieler, die teilnehmen, dem Team helfen und sich gemeinsam weiterentwickeln. DKGL steht für Wettbewerb mit Respekt, Organisation und Kameradschaft.",
  dailyTitle:"Tägliche Wachstumsroutine",dailyIntro:"Eine praktische Routine, um einfache Belohnungen mitzunehmen und weiterzuwachsen.",
  alliancesTitle:"Allianzen",alliancesIntro:"Koordination, Zusammenarbeit und Allianzorganisation.",
  eventsTitle:"Events",eventsIntro:"Prioritäten, Kalender und Event-Strategien.",
- heroesTitle:"Helden",heroesIntro:"Skill- und Sterne-Prioritäten für die drei Haupttrupps.",
+ heroesTitle:"Helden & Gorilla",heroesIntro:"Trupp-Prioritäten plus Basis- und Komplettguide zum Overlord-Gorilla.",
  tipsTitle:"Tipps & Guides",tipsIntro:"Schnelle Tipps und vollständige visuelle Guides, übersichtlich geordnet, damit du sofort findest, was du brauchst.",
  comingSoon:"Weitere Guides folgen",alliancesPlaceholder:"Dieser Bereich ist für Allianz-Zeitpläne, Koordination, Spenden und Kriegsorganisation vorbereitet.",eventsPlaceholder:"Dieser Bereich ist für Event-Guides und visuelle Anleitungen vorbereitet.",
  missileTitle:"Guide für den Raketen-Trupp",missileText:"Skill-Priorisierung sowie 5-Sterne- und Level-Reihenfolge.",
  airTitle:"Guide für den Luft-Trupp",airText:"Skill-Priorisierung sowie 5-Sterne- und Level-Reihenfolge.",
  tankTitle:"Guide für den Panzer-Trupp",tankText:"Skill-Priorisierung sowie 5-Sterne- und Level-Reihenfolge.",
+ gorillaTitle:"Guide zum Overlord-Gorilla",gorillaText:"Basisguide zum Einsatz plus vollständiger erweiterter Guide.",gorillaOpen:"Gorilla-Guide öffnen",
  seasonTip:"SAISON-TIPP",tipTeleportTitle:"Kostenloser Serverwechsel während der Saisons",
  tipTeleportText:"Während der Saisons kannst du über das Menü „Gruppierung“ auf andere Server wechseln, ohne Teleporter zu verbrauchen, und kostenlos auf deinen Heimatserver zurückkehren. Zwischen zwei Sprüngen gilt eine verpflichtende Abklingzeit von 5 Minuten.",
  footerMotto:"Leistung · Gutes Spiel · Teamgeist",
@@ -63,7 +65,7 @@ es:{
  droneBadge:"GUÍA DE DRON",
  droneTitle:"¿Qué chips debes priorizar en el dron?",
  droneText:"En el Dron Táctico, prioriza los chips en este orden: 1 → 2 → 3 → 4. Centra primero tus recursos en el chip de mayor prioridad antes de invertir fuertemente en los siguientes.",
- navHome:"Inicio",navDaily:"Rutina diaria",navAlliances:"Alianzas",navEvents:"Eventos",navHeroes:"Héroes",navTips:"Consejos y guías",
+ navHome:"Inicio",navDaily:"Rutina diaria",navAlliances:"Alianzas",navEvents:"Eventos",navHeroes:"Héroes y Gorila",navTips:"Consejos y guías",
  homeMotto:"Juntos construimos, juntos ganamos.",homeValues:"Rendimiento · Buen juego · Compañerismo",
  homeIntro:"Crecemos jugando bien, ayudándonos y afrontando juntos cada reto como equipo.",
  homeDaily:"Abrir rutina diaria",homeTips:"Abrir consejos y guías",
@@ -71,19 +73,20 @@ es:{
  valueTeamwork:"Compañerismo",valueTeamworkText:"Ayudamos, aportamos y crecemos juntos.",
  valueGoodPlay:"Buen juego",valueGoodPlayText:"Competimos con respeto y jugamos limpio.",
  tileDailyTitle:"Rutina diaria",tileDailyText:"Acciones diarias para maximizar recompensas y progreso.",
- tileHeroesTitle:"Héroes",tileHeroesText:"Prioridades de escuadrones y guías visuales.",
+ tileHeroesTitle:"Héroes y Gorila",tileHeroesText:"Prioridades de escuadrones, guías de héroes y Gorila Overlord.",
  tileTipsTitle:"Consejos y guías",tileTipsText:"Trucos útiles que ahorran tiempo y recursos.",
  manifestoKicker:"NUESTRA FORMA DE JUGAR",manifestoTitle:"Una alianza fuerte crece con rendimiento, buen juego y compañerismo.",
  manifestoText:"Queremos gente que participe, ayude al equipo y disfrute mejorando juntos. DKGL es competición con respeto, organización y compañerismo.",
  dailyTitle:"Rutina diaria de crecimiento",dailyIntro:"Una rutina práctica para recoger las recompensas más fáciles y mantener tu cuenta creciendo.",
  alliancesTitle:"Alianzas",alliancesIntro:"Coordinación, cooperación y organización de alianza.",
  eventsTitle:"Eventos",eventsIntro:"Prioridades, calendarios y estrategias de eventos.",
- heroesTitle:"Héroes",heroesIntro:"Prioridades de habilidades y estrellas para los tres escuadrones principales.",
+ heroesTitle:"Héroes y Gorila",heroesIntro:"Prioridades de escuadrones y guías básica y ampliada del Gorila Overlord.",
  tipsTitle:"Consejos y guías",tipsIntro:"Consejos rápidos y guías visuales completas, ordenados para encontrar enseguida lo que necesitas.",
  comingSoon:"Próximamente más guías",alliancesPlaceholder:"Este apartado está preparado para horarios de alianza, coordinación, donaciones y organización de guerra.",eventsPlaceholder:"Este apartado está preparado para guías de eventos y tutoriales visuales.",
  missileTitle:"Guía del escuadrón de misiles",missileText:"Prioridad de habilidades y orden de 5 estrellas / nivel.",
  airTitle:"Guía del escuadrón aéreo",airText:"Prioridad de habilidades y orden de 5 estrellas / nivel.",
  tankTitle:"Guía del escuadrón de tanques",tankText:"Prioridad de habilidades y orden de 5 estrellas / nivel.",
+ gorillaTitle:"Guía del Gorila Overlord",gorillaText:"Guía básica para desplegarlo y guía ampliada completa.",gorillaOpen:"Abrir guía del Gorila",
  seasonTip:"CONSEJO DE TEMPORADA",tipTeleportTitle:"Teletransporte gratuito entre servidores en temporada",
  tipTeleportText:"Durante las diferentes temporadas puedes usar el menú de Agrupamientos para teletransportarte a otros servidores sin gastar teletransportadores y volver gratis a tu servidor de origen. Hay un tiempo de reutilización obligatorio de 5 minutos entre cada salto interservidor.",
  footerMotto:"Rendimiento · Buen juego · Compañerismo",
@@ -93,7 +96,7 @@ pt:{
  droneBadge:"GUIA DO DRONE",
  droneTitle:"Que chips deves priorizar no drone?",
  droneText:"No Drone Tático, prioriza os chips por esta ordem: 1 → 2 → 3 → 4. Concentra primeiro os recursos no chip de maior prioridade antes de investir fortemente nos seguintes.",
- navHome:"Início",navDaily:"Rotina diária",navAlliances:"Alianças",navEvents:"Eventos",navHeroes:"Heróis",navTips:"Dicas e guias",
+ navHome:"Início",navDaily:"Rotina diária",navAlliances:"Alianças",navEvents:"Eventos",navHeroes:"Heróis e Gorila",navTips:"Dicas e guias",
  homeMotto:"Juntos construímos, juntos vencemos.",homeValues:"Rendimento · Bom jogo · Companheirismo",
  homeIntro:"Crescemos jogando bem, ajudando-nos e enfrentando cada desafio como equipa.",
  homeDaily:"Abrir rotina diária",homeTips:"Abrir dicas e guias",
@@ -101,19 +104,20 @@ pt:{
  valueTeamwork:"Companheirismo",valueTeamworkText:"Ajudamos, contribuímos e crescemos juntos.",
  valueGoodPlay:"Bom jogo",valueGoodPlayText:"Competimos com respeito e jogamos limpo.",
  tileDailyTitle:"Rotina diária",tileDailyText:"Ações diárias para maximizar recompensas e progresso.",
- tileHeroesTitle:"Heróis",tileHeroesText:"Prioridades de esquadrões e guias visuais.",
+ tileHeroesTitle:"Heróis e Gorila",tileHeroesText:"Prioridades de esquadrões, guias de heróis e Gorila Overlord.",
  tileTipsTitle:"Dicas e guias",tileTipsText:"Truques úteis que poupam tempo e recursos.",
  manifestoKicker:"A NOSSA FORMA DE JOGAR",manifestoTitle:"Uma aliança forte cresce com rendimento, bom jogo e companheirismo.",
  manifestoText:"Queremos pessoas que participem, ajudem a equipa e gostem de melhorar em conjunto. DKGL é competição com respeito, organização e companheirismo.",
  dailyTitle:"Rotina diária de crescimento",dailyIntro:"Uma rotina prática para recolher recompensas fáceis e continuar a crescer.",
  alliancesTitle:"Alianças",alliancesIntro:"Coordenação, cooperação e organização da aliança.",
  eventsTitle:"Eventos",eventsIntro:"Prioridades, calendários e estratégias de eventos.",
- heroesTitle:"Heróis",heroesIntro:"Prioridades de habilidades e estrelas para os três esquadrões principais.",
+ heroesTitle:"Heróis e Gorila",heroesIntro:"Prioridades dos esquadrões e guias básico e ampliado do Gorila Overlord.",
  tipsTitle:"Dicas e guias",tipsIntro:"Dicas rápidas e guias visuais completos, organizados para encontrares depressa o que precisas.",
  comingSoon:"Mais guias em breve",alliancesPlaceholder:"Esta área está preparada para horários, coordenação, doações e organização de guerra da aliança.",eventsPlaceholder:"Esta área está preparada para guias de eventos e tutoriais visuais.",
  missileTitle:"Guia do esquadrão de mísseis",missileText:"Prioridade de habilidades e ordem de 5 estrelas / nível.",
  airTitle:"Guia do esquadrão aéreo",airText:"Prioridade de habilidades e ordem de 5 estrelas / nível.",
  tankTitle:"Guia do esquadrão de tanques",tankText:"Prioridade de habilidades e ordem de 5 estrelas / nível.",
+ gorillaTitle:"Guia do Gorila Overlord",gorillaText:"Guia básico para implantação e guia ampliado completo.",gorillaOpen:"Abrir guia do Gorila",
  seasonTip:"DICA DE TEMPORADA",tipTeleportTitle:"Teletransporte gratuito entre servidores durante a temporada",
  tipTeleportText:"Durante as temporadas podes usar o menu de Agrupamento para ir a outros servidores sem gastar teleportadores e regressar gratuitamente ao teu servidor de origem. Existe um tempo de reutilização obrigatório de 5 minutos entre saltos.",
  footerMotto:"Rendimento · Bom jogo · Companheirismo",
@@ -123,7 +127,7 @@ fr:{
  droneBadge:"GUIDE DU DRONE",
  droneTitle:"Quelles puces faut-il prioriser sur le drone ?",
  droneText:"Pour le Drone Tactique, priorise les puces dans cet ordre : 1 → 2 → 3 → 4. Concentre d’abord tes ressources sur la puce la plus prioritaire avant d’investir fortement dans les suivantes.",
- navHome:"Accueil",navDaily:"Routine quotidienne",navAlliances:"Alliances",navEvents:"Événements",navHeroes:"Héros",navTips:"Astuces et guides",
+ navHome:"Accueil",navDaily:"Routine quotidienne",navAlliances:"Alliances",navEvents:"Événements",navHeroes:"Héros et Gorille",navTips:"Astuces et guides",
  homeMotto:"Ensemble nous construisons, ensemble nous gagnons.",homeValues:"Performance · Bon jeu · Esprit d’équipe",
  homeIntro:"Nous progressons en jouant bien, en nous aidant et en relevant chaque défi en équipe.",
  homeDaily:"Ouvrir la routine quotidienne",homeTips:"Ouvrir les astuces et guides",
@@ -131,19 +135,20 @@ fr:{
  valueTeamwork:"Esprit d’équipe",valueTeamworkText:"Nous aidons, contribuons et progressons ensemble.",
  valueGoodPlay:"Bon jeu",valueGoodPlayText:"Nous rivalisons avec respect et jouons proprement.",
  tileDailyTitle:"Routine quotidienne",tileDailyText:"Actions quotidiennes pour maximiser récompenses et progression.",
- tileHeroesTitle:"Héros",tileHeroesText:"Priorités d’escouades et guides visuels.",
+ tileHeroesTitle:"Héros et Gorille",tileHeroesText:"Priorités d’escouades, guides de héros et Gorille Overlord.",
  tileTipsTitle:"Astuces et guides",tileTipsText:"Des astuces utiles pour économiser du temps et des ressources.",
  manifestoKicker:"NOTRE FAÇON DE JOUER",manifestoTitle:"Une alliance forte grandit grâce à la performance, au bon jeu et à l’esprit d’équipe.",
  manifestoText:"Nous voulons des joueurs qui participent, aident l’équipe et aiment progresser ensemble. DKGL, c’est la compétition avec respect, organisation et camaraderie.",
  dailyTitle:"Routine quotidienne de progression",dailyIntro:"Une routine pratique pour récupérer les récompenses faciles et continuer à progresser.",
  alliancesTitle:"Alliances",alliancesIntro:"Coordination, coopération et organisation d’alliance.",
  eventsTitle:"Événements",eventsIntro:"Priorités, calendriers et stratégies d’événements.",
- heroesTitle:"Héros",heroesIntro:"Priorités de compétences et d’étoiles pour les trois escouades principales.",
+ heroesTitle:"Héros et Gorille",heroesIntro:"Priorités des escouades et guides de base et avancé du Gorille Overlord.",
  tipsTitle:"Astuces et guides",tipsIntro:"Des astuces rapides et des guides visuels complets, organisés pour trouver immédiatement ce dont tu as besoin.",
  comingSoon:"D’autres guides arrivent bientôt",alliancesPlaceholder:"Cette zone est prête pour les horaires, la coordination, les dons et l’organisation de guerre.",eventsPlaceholder:"Cette zone est prête pour les guides d’événements et les tutoriels visuels.",
  missileTitle:"Guide de l’escouade de missiles",missileText:"Priorité des compétences et ordre 5 étoiles / niveaux.",
  airTitle:"Guide de l’escouade aérienne",airText:"Priorité des compétences et ordre 5 étoiles / niveaux.",
  tankTitle:"Guide de l’escouade de chars",tankText:"Priorité des compétences et ordre 5 étoiles / niveaux.",
+ gorillaTitle:"Guide du Gorille Overlord",gorillaText:"Guide de base pour le déploiement puis guide avancé complet.",gorillaOpen:"Ouvrir le guide du Gorille",
  seasonTip:"ASTUCE DE SAISON",tipTeleportTitle:"Téléportation gratuite entre serveurs pendant les saisons",
  tipTeleportText:"Pendant les saisons, tu peux utiliser le menu de Groupement pour aller sur d’autres serveurs sans consommer de téléporteurs et revenir gratuitement sur ton serveur d’origine. Un délai de récupération obligatoire de 5 minutes s’applique entre chaque saut.",
  footerMotto:"Performance · Bon jeu · Esprit d’équipe",
@@ -646,6 +651,52 @@ function renderTips(){
  root.querySelectorAll('[data-tip-open]').forEach(b=>b.addEventListener('click',()=>showDetail(b.dataset.tipOpen)));
 }
 
+const GORILLA_BASIC = {"en":{"kicker":"BASIC GUIDE","title":"Basic Overlord Gorilla Guide in Last War","section1":"1. The first objective: Rookie Partner I","p1":"Many players think that simply unlocking the Gorilla is enough to use it in combat. It is not. When the Gorilla appears at the end of Season 2, it still <b>cannot accompany your troops</b>. To deploy it in a squad, you must reach the rank <b>“Rookie Partner I”</b>, and the required items are:","resources":[["1,800","Training Certificates","gorilla-basic-training-certificates.png"],["300k","Training Guidebooks","gorilla-basic-training-guidebooks.png"],["24","Bond Badges","gorilla-basic-bond-badge.png"]],"bullets":["If you play for free, it will take some time to deploy the Gorilla (weeks or months, still to be calculated). If you want to spend money, there are several packs you can buy to progress very quickly, and you can deploy the Gorilla in 1 week for about 500 dollars.","After reaching the deployment objective, you can strengthen the Gorilla with additional training, rank promotions and skill upgrades using these additional items:"],"extra":[["Universal Overlord Shard","gorilla-basic-universal-shard.png"],["Overlord Skill Badge","gorilla-basic-skill-badge.png"]],"p2":"To deploy the Gorilla, look at its base and you will see three independent training trees. You must train <b>Attack, Defense and Survival</b> simultaneously. The system requires all three specialties to reach certain levels to unlock the different promotions. When each specialty reaches level 100, you can promote to <b>“Rookie Partner I”</b> using 4 Bond Badges.","p3":"After doing so, you will be able to deploy the Gorilla in one of your squads.","unlock":"At that moment, the following will also be unlocked:","unlockItems":["The Gorilla’s skills.","Advanced promotions.","The complete skill tree."],"section2":"2. Skill priority","priority":"You should prioritize the Gorilla’s skills as follows:","expanded":"EXTENDED GUIDE","expandedIntro":"Continue below with the extended Overlord Gorilla guide.","close":"Close Gorilla guide"},"de":{"kicker":"BASIS-GUIDE","title":"Basis-Guide zum Overlord-Gorilla in Last War","section1":"1. Das erste Ziel: Rookie Partner I","p1":"Viele Spieler glauben, dass es reicht, den Gorilla freizuschalten, um ihn im Kampf einzusetzen. Das stimmt nicht. Wenn der Gorilla am Ende von Saison 2 erscheint, <b>kann er deine Truppen noch nicht begleiten</b>. Um ihn in einem Trupp einzusetzen, musst du den Rang <b>„Rookie Partner I“</b> erreichen. Dafür brauchst du:","resources":[["1.800","Training Certificates","gorilla-basic-training-certificates.png"],["300k","Training Guidebooks","gorilla-basic-training-guidebooks.png"],["24","Bond Badges","gorilla-basic-bond-badge.png"]],"bullets":["Wenn du kostenlos spielst, wird es einige Zeit dauern, den Gorilla einzusetzen (Wochen oder Monate, noch zu berechnen). Wenn du Geld ausgeben möchtest, gibt es mehrere Pakete, mit denen du sehr schnell vorankommst; für ungefähr 500 Dollar kannst du den Gorilla in etwa 1 Woche einsetzen.","Nach Erreichen des Einsatz-Ziels kannst du den Gorilla durch zusätzliches Training, Rangaufstiege und Skill-Verbesserungen weiter stärken. Dafür werden zusätzlich folgende Gegenstände verwendet:"],"extra":[["Universal Overlord Shard","gorilla-basic-universal-shard.png"],["Overlord Skill Badge","gorilla-basic-skill-badge.png"]],"p2":"Um den Gorilla einzusetzen, schau auf seine Basis. Dort siehst du drei unabhängige Trainingsbäume. Du musst <b>Angriff, Verteidigung und Überleben</b> gleichzeitig trainieren. Das System verlangt, dass alle drei Spezialisierungen bestimmte Stufen erreichen, um die verschiedenen Beförderungen freizuschalten. Sobald jede Spezialisierung Stufe 100 erreicht, kannst du mit 4 Bond Badges auf <b>„Rookie Partner I“</b> befördern.","p3":"Danach kannst du den Gorilla in einem deiner Trupps einsetzen.","unlock":"In diesem Moment werden außerdem freigeschaltet:","unlockItems":["Die Fähigkeiten des Gorillas.","Fortgeschrittene Beförderungen.","Der vollständige Fähigkeitsbaum."],"section2":"2. Priorität der Fähigkeiten","priority":"Du solltest die Fähigkeiten des Gorillas in folgender Reihenfolge priorisieren:","expanded":"ERWEITERTER GUIDE","expandedIntro":"Darunter folgt der ausführliche Guide zum Overlord-Gorilla.","close":"Gorilla-Guide schließen"},"es":{"kicker":"GUÍA BÁSICA","title":"Guía básica del Gorila Overlord en Last War","section1":"1. El primer objetivo: Rookie Partner I","p1":"Muchos jugadores creen que basta con desbloquear el gorila para utilizarlo en combate. No es así. Cuando el gorila aparece al final de la temporada 2, todavía <b>no puede acompañar a tus tropas</b>. Para poder desplegarlo en un escuadrón, debes alcanzar el rango a <b>“Socio Novato I”</b> y los elementos necesarios son:","resources":[["1800","certificados de formación","gorilla-basic-training-certificates.png"],["300k","manuales de capacitación","gorilla-basic-training-guidebooks.png"],["24","insignias de Bond","gorilla-basic-bond-badge.png"]],"bullets":["Si juegas gratis, tardarás un tiempo en desplegar al gorila (semanas o meses, aún por calcular). Si quieres gastar dinero, hay varios paquetes que puedes comprar para avanzar muy rápido y podrás desplegar al gorila en 1 semana por unos 500 dólares.","Tras alcanzar el objetivo de despliegue, puedes fortalecer al Gorila con entrenamiento adicional, ascensos de rango y mejora de habilidades utilizando además los siguientes elementos:"],"extra":[["Fragmento universal del señor supremo","gorilla-basic-universal-shard.png"],["Insignia de habilidad de señor supremo","gorilla-basic-skill-badge.png"]],"p2":"Para desplegar el gorila, debes fijarte en su base y verás tres árboles de entrenamiento independientes. Debes entrenar simultáneamente <b>Ataque, Defensa y Supervivencia</b>. El sistema exige que las tres especialidades alcancen determinados niveles para desbloquear las diferentes promociones. Al alcanzar el nivel 100, en cada especialidad podrás realizar el ascenso al rango <b>«Rookie Partner I»</b> utilizando 4 insignias de vínculo (Bond Badges).","p3":"Después de hacerlo, podrás desplegar al gorila en uno de tus escuadrones.","unlock":"En ese momento, también se desbloquearán:","unlockItems":["Las habilidades del gorila.","Las promociones avanzadas.","El árbol completo de habilidades."],"section2":"2. Prioridad de las habilidades","priority":"Debes priorizar las habilidades del gorila de la siguiente forma:","expanded":"GUÍA AMPLIADA","expandedIntro":"A continuación puedes consultar la guía ampliada del Gorila Overlord.","close":"Cerrar guía del Gorila"},"pt":{"kicker":"GUIA BÁSICO","title":"Guia básico do Gorila Overlord em Last War","section1":"1. O primeiro objetivo: Rookie Partner I","p1":"Muitos jogadores pensam que basta desbloquear o gorila para utilizá-lo em combate. Não é assim. Quando o gorila aparece no final da Temporada 2, ainda <b>não pode acompanhar as tuas tropas</b>. Para poder colocá-lo num esquadrão, tens de alcançar o posto <b>“Rookie Partner I”</b>, e os itens necessários são:","resources":[["1.800","certificados de formação","gorilla-basic-training-certificates.png"],["300k","manuais de formação","gorilla-basic-training-guidebooks.png"],["24","insígnias de Bond","gorilla-basic-bond-badge.png"]],"bullets":["Se jogares gratuitamente, demorará algum tempo a colocar o gorila em combate (semanas ou meses, ainda por calcular). Se quiseres gastar dinheiro, existem vários pacotes que podes comprar para avançar muito rapidamente e poderás colocar o gorila em cerca de 1 semana por aproximadamente 500 dólares.","Depois de alcançares o objetivo de implantação, podes fortalecer o Gorila com treino adicional, promoções de posto e melhoria de habilidades, utilizando também os seguintes itens:"],"extra":[["Fragmento Universal do Overlord","gorilla-basic-universal-shard.png"],["Insígnia de Habilidade do Overlord","gorilla-basic-skill-badge.png"]],"p2":"Para colocar o gorila em combate, olha para a sua base e verás três árvores de treino independentes. Deves treinar simultaneamente <b>Ataque, Defesa e Sobrevivência</b>. O sistema exige que as três especialidades atinjam determinados níveis para desbloquear as diferentes promoções. Ao atingir o nível 100 em cada especialidade, poderás realizar a promoção para <b>“Rookie Partner I”</b> utilizando 4 Bond Badges.","p3":"Depois disso, poderás colocar o gorila num dos teus esquadrões.","unlock":"Nesse momento, também serão desbloqueados:","unlockItems":["As habilidades do gorila.","As promoções avançadas.","A árvore completa de habilidades."],"section2":"2. Prioridade das habilidades","priority":"Deves priorizar as habilidades do gorila da seguinte forma:","expanded":"GUIA AMPLIADO","expandedIntro":"A seguir podes consultar o guia ampliado do Gorila Overlord.","close":"Fechar guia do Gorila"},"fr":{"kicker":"GUIDE DE BASE","title":"Guide de base du Gorille Overlord dans Last War","section1":"1. Le premier objectif : Rookie Partner I","p1":"Beaucoup de joueurs pensent qu’il suffit de débloquer le gorille pour l’utiliser au combat. Ce n’est pas le cas. Lorsque le gorille apparaît à la fin de la Saison 2, il <b>ne peut pas encore accompagner tes troupes</b>. Pour pouvoir le déployer dans une escouade, tu dois atteindre le rang <b>« Rookie Partner I »</b>, et les objets nécessaires sont :","resources":[["1 800","certificats d’entraînement","gorilla-basic-training-certificates.png"],["300k","manuels d’entraînement","gorilla-basic-training-guidebooks.png"],["24","insignes de Bond","gorilla-basic-bond-badge.png"]],"bullets":["Si tu joues gratuitement, il te faudra un certain temps pour déployer le gorille (des semaines ou des mois, encore à calculer). Si tu veux dépenser de l’argent, plusieurs packs permettent d’avancer très vite et de déployer le gorille en environ 1 semaine pour près de 500 dollars.","Après avoir atteint l’objectif de déploiement, tu peux renforcer le Gorille avec de l’entraînement supplémentaire, des promotions de rang et l’amélioration de ses compétences en utilisant aussi les objets suivants :"],"extra":[["Fragment universel de l’Overlord","gorilla-basic-universal-shard.png"],["Insigne de compétence de l’Overlord","gorilla-basic-skill-badge.png"]],"p2":"Pour déployer le gorille, regarde sa base : tu verras trois arbres d’entraînement indépendants. Tu dois entraîner simultanément <b>Attaque, Défense et Survie</b>. Le système exige que les trois spécialités atteignent certains niveaux pour débloquer les différentes promotions. Lorsque chaque spécialité atteint le niveau 100, tu peux effectuer la promotion au rang <b>« Rookie Partner I »</b> en utilisant 4 Bond Badges.","p3":"Après cela, tu pourras déployer le gorille dans l’une de tes escouades.","unlock":"À ce moment-là, seront également débloqués :","unlockItems":["Les compétences du gorille.","Les promotions avancées.","L’arbre complet des compétences."],"section2":"2. Priorité des compétences","priority":"Tu dois donner la priorité aux compétences du gorille dans l’ordre suivant :","expanded":"GUIDE AVANCÉ","expandedIntro":"Tu peux ensuite consulter le guide avancé complet du Gorille Overlord.","close":"Fermer le guide du Gorille"}};
+
+let gorillaGuideOpen=false;
+function renderGorillaGuide(){
+ const root=document.getElementById("gorillaGuideRoot");
+ if(!root) return;
+ if(!gorillaGuideOpen){root.innerHTML="";root.classList.remove("active");return;}
+ const g=GORILLA_BASIC[lang];
+ const resourceRows=g.resources.map(r=>`<div class="pdf-resource"><img src="assets/${r[2]}" alt=""><div><strong>${r[0]}</strong> <span>${r[1]}</span></div></div>`).join("");
+ const extraRows=g.extra.map(r=>`<div class="pdf-extra-resource"><img src="assets/${r[1]}" alt=""><span>${r[0]}</span></div>`).join("");
+ const unlocks=g.unlockItems.map(x=>`<li>${x}</li>`).join("");
+ root.classList.add("active");
+ root.innerHTML=`
+  <div class="gorilla-toolbar"><span>${g.kicker}</span><button id="gorillaClose" type="button">× ${g.close}</button></div>
+  <article class="gorilla-basic-guide pdf-faithful-guide">
+    <div class="pdf-guide-inner">
+      <h2>${g.title}</h2>
+      <section class="pdf-basic-section">
+        <h3>${g.section1}</h3>
+        <p>${g.p1}</p>
+        <div class="pdf-resource-list">${resourceRows}</div>
+        <ul class="pdf-source-bullets"><li>${g.bullets[0]}</li><li>${g.bullets[1]}</li></ul>
+        <div class="pdf-extra-list">${extraRows}</div>
+        <div class="pdf-training-block">
+          <div class="pdf-training-copy">
+            <p>${g.p2} <img class="pdf-inline-badge" src="assets/gorilla-basic-bond-badge-inline.png" alt="Bond Badge"></p>
+            <p>${g.p3}</p>
+            <p class="pdf-unlock-lead">${g.unlock}</p>
+            <ul class="pdf-unlock-list">${unlocks}</ul>
+          </div>
+          <figure class="pdf-rookie-figure"><img src="assets/gorilla-basic-rookie-partner.png" alt="Rookie Partner I"></figure>
+        </div>
+      </section>
+      <section class="pdf-basic-section pdf-priority-section">
+        <h3>${g.section2}</h3>
+        <p>${g.priority}</p>
+        <figure class="pdf-priority-figure"><img src="assets/gorilla-basic-priority-skills.png" alt="Priority skills"></figure>
+      </section>
+    </div>
+  </article>
+  <div class="gorilla-expanded-head"><span>${g.expanded}</span><h3>${g.expanded}</h3><p>${g.expandedIntro}</p></div>
+  <iframe class="gorilla-frame" src="gorilla-guide-${lang}.html" title="${g.expanded}" loading="lazy"></iframe>`;
+ document.getElementById("gorillaClose").addEventListener("click",()=>{gorillaGuideOpen=false;renderGorillaGuide();document.querySelector('[data-page="heroes"]').scrollIntoView({behavior:"smooth"});});
+}
+
+
 function applyLanguage(){
  document.documentElement.lang=lang;
  document.querySelectorAll("[data-i18n]").forEach(el=>{
@@ -653,7 +704,7 @@ function applyLanguage(){
    if(I18N[lang][k]) el.textContent=I18N[lang][k];
  });
  document.querySelectorAll(".lang").forEach(b=>b.classList.toggle("active",b.dataset.lang===lang));
- renderDaily(); renderTips();
+ renderDaily(); renderTips(); renderGorillaGuide();
 }
 
 function showRoute(name, updateHash=true){
@@ -667,6 +718,8 @@ function showRoute(name, updateHash=true){
 }
 
 document.querySelectorAll("[data-route]").forEach(el=>el.addEventListener("click",()=>showRoute(el.dataset.route)));
+document.getElementById("gorillaOpen")?.addEventListener("click",()=>{gorillaGuideOpen=true;renderGorillaGuide();setTimeout(()=>document.getElementById("gorillaGuideRoot")?.scrollIntoView({behavior:"smooth",block:"start"}),30);});
+
 document.querySelectorAll(".lang").forEach(el=>el.addEventListener("click",()=>{
   lang=el.dataset.lang;
   localStorage.setItem("dkgl-lang",lang);
